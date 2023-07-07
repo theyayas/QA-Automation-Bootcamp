@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sumatera dan sekitarnya</name>
+   <tag></tag>
+   <elementGuidId>56136c9e-5bd9-4f25-af34-2bc18107b433</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-ListGroupArea2']/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff7d2824-8bd8-40c7-8705-398fd4fb74d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-item</value>
+      <webElementGuid>c5f8c120-009e-41ab-8aee-af2f1bbada76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sumatera dan sekitarnya</value>
+      <webElementGuid>bda447a6-81e2-4a56-a8fd-652cc9ccaeef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-ListGroupArea2&quot;)/div[@class=&quot;list-item&quot;]</value>
+      <webElementGuid>5a77e5ab-ee53-49f6-b4f3-c12d4672b1fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-ListGroupArea2']/div[5]</value>
+      <webElementGuid>a9f5cff7-6ce3-4ab7-8325-5c7ef3e6c234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jawa Timur, Bali, dan sekitarnya'])[1]/following::div[1]</value>
+      <webElementGuid>526451f9-8d15-419f-bdf0-47825f9b2027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jawa Tengah dan DIY'])[1]/following::div[2]</value>
+      <webElementGuid>bd18980b-a990-4115-bbf0-e590c22e1ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kalimantan, Sulawesi, Papua, dan sekitarnya'])[1]/preceding::div[1]</value>
+      <webElementGuid>fd23239b-73ff-44ab-b2fa-43f4e165d027</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[2]/div[2]/div/div[5]</value>
+      <webElementGuid>840ad42e-2165-47c7-849c-515ece3499e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sumatera dan sekitarnya' or . = 'Sumatera dan sekitarnya')]</value>
+      <webElementGuid>a2831fc9-10ee-4104-9b44-153ae8c3620a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
