@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Pada halaman profile, ketika menekan tombol &quot;view me&quot;, layar akan menampilkan data profile berupa popup.</description>
-   <name>TC130002</name>
-   <tag>TC130002</tag>
-   <comment></comment>
-   <testCaseGuid>d1a05b19-4879-4982-b03b-1882ce9c936b</testCaseGuid>
-</TestCaseEntity>

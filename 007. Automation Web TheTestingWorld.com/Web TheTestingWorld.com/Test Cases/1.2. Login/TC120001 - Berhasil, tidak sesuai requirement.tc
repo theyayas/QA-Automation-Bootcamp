@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Masuk ke halaman Login</description>
-   <name>TC120001 - Berhasil, tidak sesuai requirement</name>
-   <tag>TC120001</tag>
-   <comment></comment>
-   <testCaseGuid>3fb09f68-2f48-4df8-aa44-4583ceacccec</testCaseGuid>
-</TestCaseEntity>

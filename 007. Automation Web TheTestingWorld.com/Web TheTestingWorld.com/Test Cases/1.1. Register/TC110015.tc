@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Ketika berada pada halaman registrasi, jika mengisi semua field mandatory kecuali field &quot;re-password&quot;, maka ditampilkan alert berupa &quot;Fill out this field&quot; pada field re-password</description>
-   <name>TC110015</name>
-   <tag>TC110015</tag>
-   <comment></comment>
-   <testCaseGuid>f87b747c-501e-45ba-973b-4ad2737bd70e</testCaseGuid>
-</TestCaseEntity>

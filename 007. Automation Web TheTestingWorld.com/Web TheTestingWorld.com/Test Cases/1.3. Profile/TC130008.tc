@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Pada halaman profile, ketika mencoba mengubah jenis kelamin, layar menampilkan jenis kelamin berupa dropdown dengan data “Male” dan “Female” serta dapat diedit</description>
-   <name>TC130008</name>
-   <tag>TC130008</tag>
-   <comment></comment>
-   <testCaseGuid>ecb3c05f-c923-4e65-bde1-8a9778ac576c</testCaseGuid>
-</TestCaseEntity>

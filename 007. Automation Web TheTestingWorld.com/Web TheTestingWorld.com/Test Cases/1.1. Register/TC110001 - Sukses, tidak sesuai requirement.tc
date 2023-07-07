@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Masuk ke halaman Login or Sign Up to start</description>
-   <name>TC110001 - Sukses, tidak sesuai requirement</name>
-   <tag>TC110001</tag>
-   <comment></comment>
-   <testCaseGuid>f36fa09d-8fc8-49af-84eb-ff6c2a9c6a2d</testCaseGuid>
-</TestCaseEntity>

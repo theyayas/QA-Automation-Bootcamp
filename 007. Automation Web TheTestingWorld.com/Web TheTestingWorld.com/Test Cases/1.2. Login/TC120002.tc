@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Melakukan Login dengan username dan password yang terdaftar di system</description>
-   <name>TC120002</name>
-   <tag>TC120002</tag>
-   <comment></comment>
-   <testCaseGuid>8b928678-e963-4bce-a3d1-68f52dc29b4e</testCaseGuid>
-</TestCaseEntity>

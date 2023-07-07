@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Ketika berada pada halaman registrasi, jika mengisi semua field mandatory kecuali field &quot;gender&quot;, maka ditampilkan alert berupa &quot;Select an item in the list” pada field gender</description>
-   <name>TC110016</name>
-   <tag>TC110016</tag>
-   <comment></comment>
-   <testCaseGuid>bdcb30b4-1e9e-4997-9017-329290ea1d39</testCaseGuid>
-</TestCaseEntity>

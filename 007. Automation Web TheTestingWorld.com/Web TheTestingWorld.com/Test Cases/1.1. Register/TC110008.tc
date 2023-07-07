@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Pada halaman registrasi, ketika field Country kosong, kemudian mencoba mengisi filed Select State, maka item list yang ditampilkan berupa &quot;Select State&quot;
-</description>
-   <name>TC110008</name>
-   <tag>TC110008</tag>
-   <comment></comment>
-   <testCaseGuid>77dc709e-ca51-451e-a3ea-53a46c20aaf4</testCaseGuid>
-</TestCaseEntity>

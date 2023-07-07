@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Pada halaman profile, layar menampilkan tanggal dengan format MM/DD/YYYY dan bisa diedit</description>
-   <name>TC130006</name>
-   <tag>TC130006</tag>
-   <comment></comment>
-   <testCaseGuid>ae655e3c-f6a2-4567-a9cd-f02f5d8113e1</testCaseGuid>
-</TestCaseEntity>

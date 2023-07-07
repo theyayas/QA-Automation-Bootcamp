@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Melakukan Login dengan mengosongkan password dan mengisi username yang terdaftar di system</description>
-   <name>TC120007</name>
-   <tag>TC120007</tag>
-   <comment></comment>
-   <testCaseGuid>b2840358-d187-4c7c-8ff9-21f314e1cec1</testCaseGuid>
-</TestCaseEntity>

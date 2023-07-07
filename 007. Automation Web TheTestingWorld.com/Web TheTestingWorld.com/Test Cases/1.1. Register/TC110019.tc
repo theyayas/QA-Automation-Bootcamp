@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Pada halaman registrasi, ketika field Country kosong, field Select State kosong, kemudian mencoba mengisi filed Select City, maka item list yang ditampilkan hanya berupa &quot;Select City&quot;</description>
-   <name>TC110019</name>
-   <tag>TC110019</tag>
-   <comment></comment>
-   <testCaseGuid>0f3aa09c-715f-4a3d-81d8-e908322751b5</testCaseGuid>
-</TestCaseEntity>

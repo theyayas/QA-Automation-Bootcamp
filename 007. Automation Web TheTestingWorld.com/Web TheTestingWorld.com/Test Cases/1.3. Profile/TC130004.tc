@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Pada halaman profile, layar menampilkan email sesuai dengan inputan ketika Registrasi, yang tidak dapat diedit</description>
-   <name>TC130004</name>
-   <tag>TC130004</tag>
-   <comment></comment>
-   <testCaseGuid>b8ed30ab-d1dd-479a-8f0c-c4ae2ad146ae</testCaseGuid>
-</TestCaseEntity>

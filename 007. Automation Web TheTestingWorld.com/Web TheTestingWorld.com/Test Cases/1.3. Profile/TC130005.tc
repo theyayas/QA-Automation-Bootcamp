@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Pada halaman profile, layar menampilkan Password sesuai dengan inputan ketika Login, yang dapat diedit</description>
-   <name>TC130005</name>
-   <tag>TC130005</tag>
-   <comment></comment>
-   <testCaseGuid>64b307dc-7654-4792-bb05-0971a50d3ede</testCaseGuid>
-</TestCaseEntity>
