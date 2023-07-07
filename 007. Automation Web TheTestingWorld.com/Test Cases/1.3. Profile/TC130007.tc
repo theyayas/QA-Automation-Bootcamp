@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman profile, layar menampilkan nomer telephone yang hanya berupa angka dan bisa diedit, dimana nomor telephon menggunakan format awalan 62</description>
+   <name>TC130007</name>
+   <tag>TC130007</tag>
+   <comment></comment>
+   <testCaseGuid>37fd9216-278c-4933-84e6-086dfc391c1c</testCaseGuid>
+</TestCaseEntity>

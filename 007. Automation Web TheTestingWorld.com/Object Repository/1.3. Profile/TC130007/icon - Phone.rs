@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon - Phone</name>
+   <tag></tag>
+   <elementGuidId>39823b5b-2dac-4131-bc3c-10eb2d07aa7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.glyphicon.glyphicon-earphone</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='contact_form']/fieldset/div[5]/div/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9c37d861-530a-49c0-8354-2ff58d6ac4d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-earphone</value>
+      <webElementGuid>7f298ae2-2233-4923-9517-f550655acca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contact_form&quot;)/fieldset[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-4 inputGroupContainer&quot;]/div[@class=&quot;input-group&quot;]/span[@class=&quot;input-group-addon&quot;]/i[@class=&quot;glyphicon glyphicon-earphone&quot;]</value>
+      <webElementGuid>6b56aa4e-7b88-4ac1-a5af-6a85b5268ee2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='contact_form']/fieldset/div[5]/div/div/span/i</value>
+      <webElementGuid>f3632abc-1839-4a06-9931-774c89d8db26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/span/i</value>
+      <webElementGuid>d95a4c27-c447-46b8-8261-d04d0feff766</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

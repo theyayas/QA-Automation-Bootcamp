@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan Login dengan mengosongkan username dan password</description>
+   <name>TC120008</name>
+   <tag>TC120008</tag>
+   <comment></comment>
+   <testCaseGuid>f42e9942-b9a2-416f-bbdd-fff8614af92b</testCaseGuid>
+</TestCaseEntity>

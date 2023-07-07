@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman registrasi, ketika field Country terisi dengan Negara tertentu field Select State terisi dengan State atau Provinsi tertentu, kemudian mencoba mengisi filed Select State, maka item list yang ditampilkan berupa daftar Kota pada State atau Provinsi yang dipilih</description>
+   <name>TC110011</name>
+   <tag>TC110011</tag>
+   <comment></comment>
+   <testCaseGuid>68796709-2101-4ef3-87bb-c678584b4c14</testCaseGuid>
+</TestCaseEntity>

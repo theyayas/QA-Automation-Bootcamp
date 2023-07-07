@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ketika berada pada halaman registrasi, jika mengisi semua field mandatory kecuali field &quot;I agree with terms and conditions&quot;, maka ditampilkan alert berupa &quot;Fill out this field&quot; pada field &quot;I agree with terms and conditions&quot;</description>
+   <name>TC110017</name>
+   <tag>TC110017</tag>
+   <comment></comment>
+   <testCaseGuid>3aa4b3c2-35af-49ed-b45e-87833f018e39</testCaseGuid>
+</TestCaseEntity>
