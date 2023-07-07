@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Jakarta Pusat</name>
+   <tag></tag>
+   <elementGuidId>53439937-af93-4faa-803e-a911ee12565a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ChooseAddressWidget']/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.css-y0t2b-unf-heading.ej53lua8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3d0c971e-6fad-458e-a90c-0259ac7c1010</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Typography</value>
+      <webElementGuid>ccf2016f-f2cd-4bdd-9d88-144c4b134b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-y0t2b-unf-heading ej53lua8</value>
+      <webElementGuid>ced4284d-4a25-40fa-ab52-72aaaa0b1309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jakarta Pusat</value>
+      <webElementGuid>94848e32-4ac8-4605-84cc-c940203f13c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ChooseAddressWidget&quot;)/div[@class=&quot;css-1gdat0b&quot;]/p[@class=&quot;css-y0t2b-unf-heading ej53lua8&quot;]</value>
+      <webElementGuid>2ab298b9-fbcf-4b39-8562-3b330ac8256b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ChooseAddressWidget']/div/p[2]</value>
+      <webElementGuid>d8e0910a-9780-4666-b9a3-9cdb33a63e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='android tv box'])[1]/following::p[2]</value>
+      <webElementGuid>2590e01f-67f5-4839-93d0-06c6cbb10e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iphone 13'])[1]/following::p[2]</value>
+      <webElementGuid>1f27bacc-2125-4c38-bd52-dc3964ae9bbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Promo Lainnya'])[1]/preceding::p[1]</value>
+      <webElementGuid>5966812d-0dc9-4372-9388-4b50246010ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='prev'])[1]/preceding::p[1]</value>
+      <webElementGuid>5fb99f3e-a102-4d5e-8a5a-eef82a50b925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jakarta Pusat']/parent::*</value>
+      <webElementGuid>0129ee9a-3e21-4b74-85c5-4f12e81f8a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>0c93fb85-ec58-4fd4-be0a-803a3cfcf96b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Jakarta Pusat' or . = 'Jakarta Pusat')]</value>
+      <webElementGuid>0c75f534-c045-4afc-966b-b7693ed37400</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

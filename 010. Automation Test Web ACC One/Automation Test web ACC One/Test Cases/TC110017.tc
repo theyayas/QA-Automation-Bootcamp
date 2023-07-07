@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman Kalkulator Kredit Mobil Baru, jika semua field diisi, dan field Harga OTR diisi dengan harga bernilai negatif, maka sistem tidak menghitung Simulasi dan ditampilkan alert &quot;nilai tidak valid&quot;</description>
+   <name>TC110017</name>
+   <tag>TC110017</tag>
+   <comment></comment>
+   <testCaseGuid>f7590cb0-5f9f-4abd-9d95-eb8d57aeecf3</testCaseGuid>
+</TestCaseEntity>

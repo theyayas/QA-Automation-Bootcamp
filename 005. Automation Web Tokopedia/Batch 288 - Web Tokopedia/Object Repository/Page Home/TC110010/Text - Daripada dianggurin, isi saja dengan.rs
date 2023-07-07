@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text - Daripada dianggurin, isi saja dengan</name>
+   <tag></tag>
+   <elementGuidId>39cd2870-bc86-48d4-b94b-7b3f913a25c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div[3]/div[2]/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1ww6rti</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a33778a-a4a6-4778-8327-fd201dd0448a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1ww6rti</value>
+      <webElementGuid>a324dad7-32ea-4bba-a8c5-7563955ed147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daripada dianggurin, isi saja dengan barang-barang menarik. Lihat-lihat dulu, siapa tahu ada yang kamu suka!</value>
+      <webElementGuid>e29df211-5e9c-47a3-a8ad-3f58dbafe647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1s8dqy5 e90swyx2&quot;]/div[@class=&quot;css-1brt7yz&quot;]/div[@class=&quot;css-1yfdnzs efi7olp0&quot;]/div[2]/div[@class=&quot;css-1ww6rti&quot;]</value>
+      <webElementGuid>0e7abd11-cc1a-495f-808c-a706a04bf95c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div[3]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>e37b3896-534e-4fae-b64c-933fa9a511c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wah keranjang belanjaanmu kosong!'])[1]/following::div[1]</value>
+      <webElementGuid>99e60ace-5a2c-4210-b3b2-23d452e48e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::div[11]</value>
+      <webElementGuid>e6623355-7417-406f-8560-984bc0f1fd27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::div[3]</value>
+      <webElementGuid>20b7e2bf-62bb-4006-a353-5af7ec0948b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daripada dianggurin, isi saja dengan barang-barang menarik. Lihat-lihat dulu, siapa tahu ada yang kamu suka!']/parent::*</value>
+      <webElementGuid>0bf8f1fa-e49a-4710-84b0-8bbd9add9d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]</value>
+      <webElementGuid>f9598a5c-1587-4254-aa77-362b66df546b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Daripada dianggurin, isi saja dengan barang-barang menarik. Lihat-lihat dulu, siapa tahu ada yang kamu suka!' or . = 'Daripada dianggurin, isi saja dengan barang-barang menarik. Lihat-lihat dulu, siapa tahu ada yang kamu suka!')]</value>
+      <webElementGuid>899e22a3-f454-4751-a5c7-76b8023734f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

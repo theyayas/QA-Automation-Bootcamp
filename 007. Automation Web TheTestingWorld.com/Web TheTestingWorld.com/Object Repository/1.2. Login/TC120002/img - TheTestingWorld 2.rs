@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img - TheTestingWorld 2</name>
+   <tag></tag>
+   <elementGuidId>9f9db68d-f885-420f-b3d2-6be2683e1483</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c68174e4-a440-42ce-8cb0-12805381c970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>img/Profile.jpg</value>
+      <webElementGuid>2825cf2c-99d4-49cd-8e71-67b7d43d2e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/img[1]</value>
+      <webElementGuid>95325fcc-ae79-40b4-919e-45186b7be29f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/img</value>
+      <webElementGuid>9f0e0d51-53b5-4b7f-8112-3359a748dcd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'img/Profile.jpg']</value>
+      <webElementGuid>490599ef-a2cf-4b13-b63b-617e97251df5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

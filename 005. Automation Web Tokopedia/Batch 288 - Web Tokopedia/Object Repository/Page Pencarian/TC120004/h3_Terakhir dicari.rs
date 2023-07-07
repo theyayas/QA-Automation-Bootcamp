@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Terakhir dicari</name>
+   <tag></tag>
+   <elementGuidId>424cba17-fc5a-4cf9-a40c-d22736f3bc9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-container']/div/div/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.css-k8wueb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>b99ddf1d-cf3a-4fe8-bf83-b2b2b57b1f69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-k8wueb</value>
+      <webElementGuid>e88b244a-77fe-49dc-a4a3-1ba610c85fc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>hHeaderAutocomTitle</value>
+      <webElementGuid>b0f9ab45-559d-411e-ab81-0d867beae283</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terakhir dicariHapus Semua</value>
+      <webElementGuid>d1de2efe-d2bd-4a28-b963-b4da5a34974f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-container&quot;)/div[@class=&quot;css-1jn6tgt e1aezlny0&quot;]/div[1]/div[@class=&quot;css-xq97c2 containerDropdown&quot;]/h3[@class=&quot;css-k8wueb&quot;]</value>
+      <webElementGuid>ee2a0743-225a-40a9-bb59-5a15105d8612</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-container']/div/div/div/h3</value>
+      <webElementGuid>5d293fdd-25fb-4145-8312-a193f83b7ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::h3[1]</value>
+      <webElementGuid>01c483fc-c9e3-4556-978d-a680b56a587a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tokopedia Care'])[1]/following::h3[1]</value>
+      <webElementGuid>40e45b21-9b66-4fe1-9495-1fb1c6261d7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sepatu'])[1]/preceding::h3[1]</value>
+      <webElementGuid>e3f10cdc-fe51-4a74-8ca6-50259ab19c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terakhir dicari']/parent::*</value>
+      <webElementGuid>062b75e6-4557-4fb3-8e3c-3b0faf8d8c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>4392afa8-0bd5-4631-a3ed-1f23bbb7e4c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Terakhir dicariHapus Semua' or . = 'Terakhir dicariHapus Semua')]</value>
+      <webElementGuid>21f4f735-68c8-4ac6-baa8-5a8d6eb7e789</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

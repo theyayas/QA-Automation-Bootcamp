@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input - Pilih Semua Rekomendasi Asuransi</name>
+   <tag></tag>
+   <elementGuidId>a9d93cde-74a2-40aa-9d24-612541e7946c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-b6-Column1']/div/div/div[2]/div[10]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding-base.font-semi-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2e543dc2-5faa-4f3f-bf7b-43127f93933e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-base font-semi-bold</value>
+      <webElementGuid>85774c90-6678-4c58-8126-be959c49e04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Semua Rekomendasi Asuransi</value>
+      <webElementGuid>d272ac65-59dc-418c-aa9a-6c60de765771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b6-Column1&quot;)/div[@class=&quot;flex-justify-center full-height&quot;]/div[@class=&quot;padding-l font-size-p OSInline&quot;]/div[@class=&quot;padding-top-s&quot;]/div[@class=&quot;padding-top-field&quot;]/div[@class=&quot;white-container--border&quot;]/div[@class=&quot;padding-base font-semi-bold&quot;]</value>
+      <webElementGuid>610c5a2d-045c-47a1-8194-6334de846985</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b6-Column1']/div/div/div[2]/div[10]/div/div</value>
+      <webElementGuid>5dec6ab7-ed21-45c5-80e3-6a72d1e8fdfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harus dipilih!'])[1]/following::div[4]</value>
+      <webElementGuid>1bb29e49-4a62-4bf4-bf4b-a01ab6bacc59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area Pengajuan'])[1]/following::div[5]</value>
+      <webElementGuid>4dd137a7-19bd-48c0-a55e-d8fb10f7172d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat detail asuransi'])[1]/preceding::div[2]</value>
+      <webElementGuid>53f13a25-d5f7-4537-8308-37bce9895f72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div</value>
+      <webElementGuid>bb30d47b-5d6a-4294-9f93-01a9ff23b88c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pilih Semua Rekomendasi Asuransi' or . = 'Pilih Semua Rekomendasi Asuransi')]</value>
+      <webElementGuid>182c0831-9bbd-4885-aa2b-444354868c26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

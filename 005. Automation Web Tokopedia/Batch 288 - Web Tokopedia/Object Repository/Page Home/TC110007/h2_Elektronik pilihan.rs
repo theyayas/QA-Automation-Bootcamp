@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Elektronik pilihan</name>
+   <tag></tag>
+   <elementGuidId>eed3688c-2cbf-4ded-b961-36d7253b1c0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/section[2]/div[5]/section/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>9e5a512f-8588-46fa-9d7c-63796991b068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-t5es2</value>
+      <webElementGuid>d9159acc-5ce2-4bbb-8f47-bcd25e7e5eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>lblHomeCarouselTitle</value>
+      <webElementGuid>5a302423-4926-4c09-8724-41bf5f844cfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Elektronik pilihan</value>
+      <webElementGuid>583f07f3-df08-4c07-997d-1c0ef0ca32dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-1rhxxyn&quot;]/section[@class=&quot;css-1jllmtg&quot;]/div[@class=&quot;css-183zhx4&quot;]/section[@class=&quot;css-15w4gyx-unf-card eeeacht0&quot;]/div[@class=&quot;css-x2jffe&quot;]/div[@class=&quot;css-qu5ty6&quot;]/h2[@class=&quot;css-t5es2&quot;]</value>
+      <webElementGuid>5fa70b2c-f5b0-4fae-b890-191417a9ba89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/section[2]/div[5]/section/div/div/h2</value>
+      <webElementGuid>5bd65dbc-6f52-4dc9-bb4e-6b6157a75440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='next'])[6]/following::h2[1]</value>
+      <webElementGuid>55c3e5dc-6c64-4455-a07d-c6bb669f764f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='prev'])[6]/following::h2[1]</value>
+      <webElementGuid>317907c1-00ea-4739-9c38-fd664d9b86ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[5]/preceding::h2[1]</value>
+      <webElementGuid>533f54f2-0ab2-4448-87ba-f96fc61d6cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad'])[2]/preceding::h2[1]</value>
+      <webElementGuid>a44b8a93-0799-4fa2-8c21-7834772d4c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Elektronik pilihan']/parent::*</value>
+      <webElementGuid>59fd4cd9-3e85-45c2-a6dc-ac7290585fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/section/div/div/h2</value>
+      <webElementGuid>1e245b13-50e6-4a64-b2da-2e64a899bdf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Elektronik pilihan' or . = 'Elektronik pilihan')]</value>
+      <webElementGuid>2d0619dd-27d8-41ae-80cd-28a575f08ec0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

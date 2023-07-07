@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Linked text - Syarat dan Ketentuan</name>
+   <tag></tag>
+   <elementGuidId>51484ed5-5fb0-4546-9519-299f1ba2025e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/div[2]/div[2]/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-frtf6l > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>58e74eed-4806-4f12-bcec-2cbe8df22606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.tokopedia.com/terms</value>
+      <webElementGuid>f45da47e-576f-4f08-9a46-6abe3e126266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c313b305-764c-4b18-91bc-2bb95b4a6f47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>97d0da86-6912-43b5-b2c1-8bb9425b9f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Syarat dan Ketentuan</value>
+      <webElementGuid>5c202e81-72d9-4e94-94e8-2831565a21ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-nuukba&quot;]/div[@class=&quot;css-1x0s3fz&quot;]/div[@class=&quot;right__container&quot;]/div[@class=&quot;css-173ke7b&quot;]/div[@class=&quot;css-frtf6l&quot;]/a[1]</value>
+      <webElementGuid>9e8c1793-dfce-491f-824d-fa27278a921c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/div[2]/div[2]/div/div[4]/a</value>
+      <webElementGuid>60ef5e93-9042-4756-87be-e4664ed1477c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Syarat dan Ketentuan')]</value>
+      <webElementGuid>0ef1cdd8-3995-412e-b668-898a785cf5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dengan mendaftar, saya menyetujui'])[1]/following::a[1]</value>
+      <webElementGuid>05938441-99cc-4252-9f65-575715a511b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::a[1]</value>
+      <webElementGuid>61af9425-9b06-4c75-9967-8d8bd6bf53bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/preceding::a[1]</value>
+      <webElementGuid>f81421b9-af98-40aa-8785-9e64109a7abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Syarat dan Ketentuan']/parent::*</value>
+      <webElementGuid>3253c701-2e74-48de-a872-65647c621715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.tokopedia.com/terms')]</value>
+      <webElementGuid>f17c3dba-0536-4600-881a-aa5070a496e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>aaf7b290-5136-45d7-9cce-94263a01dd8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.tokopedia.com/terms' and (text() = 'Syarat dan Ketentuan' or . = 'Syarat dan Ketentuan')]</value>
+      <webElementGuid>3af0e7ec-647c-491b-b636-0f53c20a6583</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

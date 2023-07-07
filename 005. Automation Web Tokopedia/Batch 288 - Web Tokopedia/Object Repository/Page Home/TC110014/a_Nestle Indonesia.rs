@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nestle Indonesia</name>
+   <tag></tag>
+   <elementGuidId>80ee4e59-ee7c-4278-aba7-5da8f39a4ec0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div[2]/a[15]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e4e84db4-88a3-450c-b1ad-1014e38f7905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/nestle-indonesia</value>
+      <webElementGuid>96d735be-26d0-4de5-b933-fb855d36d441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1eyk9z8</value>
+      <webElementGuid>aaae3984-89ba-428e-90ea-5fd35c4b55be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nestle Indonesia</value>
+      <webElementGuid>798a46db-ca3c-4fe3-b7e9-96750b9d9467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1s8dqy5 e90swyx2&quot;]/div[@class=&quot;css-1qr7rcv e1429ojz0&quot;]/div[@class=&quot;css-1iy09lx e1429ojz1&quot;]/div[@class=&quot;css-12nkv7 e1429ojz2&quot;]/div[@class=&quot;css-2fncvf-unf-tab e1429ojz3&quot;]/div[@class=&quot;css-3y7kva&quot;]/div[@class=&quot;css-sbvsi7&quot;]/a[@class=&quot;css-1eyk9z8&quot;]</value>
+      <webElementGuid>a4683559-fe2d-4c1c-b4e2-8025bc7a9bb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div[2]/a[15]</value>
+      <webElementGuid>e47e3b9f-732a-4308-a224-9661fd6fdf76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Nestle Indonesia')]</value>
+      <webElementGuid>2cbcf68c-b6da-4789-acbd-f94b870074ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marks &amp; Spencer'])[1]/following::a[1]</value>
+      <webElementGuid>84643698-5b85-4df0-83ae-9f6058804e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Levi', &quot;'&quot;, 's Official')])[1]/following::a[2]</value>
+      <webElementGuid>f5edee68-9b6b-4e42-86bb-172929244aeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ramayana'])[1]/preceding::a[1]</value>
+      <webElementGuid>2a463753-3281-4c96-8229-4bde2247ace4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOGO'])[1]/preceding::a[2]</value>
+      <webElementGuid>11c182c6-c624-4844-b2f2-2c9537f6c9b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nestle Indonesia']/parent::*</value>
+      <webElementGuid>a84039ed-2de7-43ee-92e7-5574669a4468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/nestle-indonesia')]</value>
+      <webElementGuid>4c7e5455-a57c-4c23-86e2-67c3cdaa00f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[15]</value>
+      <webElementGuid>6330eb82-07eb-46b9-9ad5-168998345cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/nestle-indonesia' and (text() = 'Nestle Indonesia' or . = 'Nestle Indonesia')]</value>
+      <webElementGuid>85d6713b-4b4a-42c9-a280-9163b00e35d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

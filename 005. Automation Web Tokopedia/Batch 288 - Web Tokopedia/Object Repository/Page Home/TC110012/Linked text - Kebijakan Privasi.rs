@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Linked text - Kebijakan Privasi</name>
+   <tag></tag>
+   <elementGuidId>4040cf2e-0fa8-49cf-9659-b74ea0b96703</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/div[2]/div[2]/div/div[4]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e4e7df7a-51ca-4cbb-8a0c-e81526796ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.tokopedia.com/privacy</value>
+      <webElementGuid>11bc2ca9-c76d-4bbc-a16f-ac910cdf4d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>dab12204-3518-462c-9fc3-4b7623e94af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>90eafb61-d45f-4738-bd47-95c7b7a021da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kebijakan Privasi</value>
+      <webElementGuid>8e5b5267-27ee-4bf7-a409-d89050db20a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-nuukba&quot;]/div[@class=&quot;css-1x0s3fz&quot;]/div[@class=&quot;right__container&quot;]/div[@class=&quot;css-173ke7b&quot;]/div[@class=&quot;css-frtf6l&quot;]/a[2]</value>
+      <webElementGuid>150a348f-b66c-4ec8-9968-815ea77674ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/div[2]/div[2]/div/div[4]/a[2]</value>
+      <webElementGuid>fd55a0fa-4599-4a30-a647-eb2ae65426ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kebijakan Privasi')]</value>
+      <webElementGuid>159ae617-5240-474e-b470-3f4beea76007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Syarat dan Ketentuan'])[1]/following::a[1]</value>
+      <webElementGuid>0d286eeb-3911-4034-9981-ffdc6983d2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2009-2022, PT Tokopedia'])[1]/preceding::a[1]</value>
+      <webElementGuid>b9dc68b9-29b5-4765-98b6-60c283958b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tokopedia Care'])[1]/preceding::a[1]</value>
+      <webElementGuid>0cc4928a-6e3b-472b-8683-f4dc7642dc0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kebijakan Privasi']/parent::*</value>
+      <webElementGuid>f08464b3-12a0-491d-8a70-d92a6b126d0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.tokopedia.com/privacy')]</value>
+      <webElementGuid>6d973872-e371-47f2-bb9d-79c12270f7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>83049cef-c702-40ed-a27e-c40fc2e4ebd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.tokopedia.com/privacy' and (text() = 'Kebijakan Privasi' or . = 'Kebijakan Privasi')]</value>
+      <webElementGuid>47970a02-dbd2-4da1-aa83-b0927b72965f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

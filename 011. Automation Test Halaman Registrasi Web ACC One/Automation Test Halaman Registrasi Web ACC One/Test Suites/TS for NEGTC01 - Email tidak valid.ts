@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS for NEGTC01 - Email tidak valid</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>0dadaba4-1e08-4c91-a4e3-5c6671bc19b0</testSuiteGuid>
+   <testCaseLink>
+      <guid>5d707459-bc31-4ac9-92ae-821cf12661be</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Negative/NEGTC01</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b0695e36-838f-4e7c-9ba0-73a4e9fec3bb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TS for NEGTC01</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>b0695e36-838f-4e7c-9ba0-73a4e9fec3bb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nama</value>
+         <variableId>1d2c20ce-6635-4c94-8da6-0dfd21fc34a5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b0695e36-838f-4e7c-9ba0-73a4e9fec3bb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>ddeb44b4-9318-4b14-bcb1-92e892fb088c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b0695e36-838f-4e7c-9ba0-73a4e9fec3bb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nomorHandphone</value>
+         <variableId>3075d224-fae0-40d0-a9f4-df6069e0e1db</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b0695e36-838f-4e7c-9ba0-73a4e9fec3bb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>gender</value>
+         <variableId>055dc729-9672-401c-968e-97e70d7f81d5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b0695e36-838f-4e7c-9ba0-73a4e9fec3bb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>kataSandi</value>
+         <variableId>9b648777-3c5d-4b33-99c3-83bbefb9ee23</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b0695e36-838f-4e7c-9ba0-73a4e9fec3bb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>konfirmasiKataSandi</value>
+         <variableId>353b0dc5-d214-46d5-89e7-d56685761163</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

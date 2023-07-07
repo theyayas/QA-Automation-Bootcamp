@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Featured</name>
+   <tag></tag>
+   <elementGuidId>fb7dacb3-53fc-4482-89cd-e44a8acce184</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d46c735-18c6-4ea9-9623-6fe0deddbc8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Featured</value>
+      <webElementGuid>97939af8-11a6-4526-9d72-a02c47f8546b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1s8dqy5 e90swyx2&quot;]/div[@class=&quot;css-1qr7rcv e1429ojz0&quot;]/div[@class=&quot;css-1iy09lx e1429ojz1&quot;]/div[@class=&quot;css-12nkv7 e1429ojz2&quot;]/div[@class=&quot;css-2fncvf-unf-tab e1429ojz3&quot;]/div[@class=&quot;css-1k4n9os&quot;]/div[@class=&quot;css-1ulbebz&quot;]/div[1]</value>
+      <webElementGuid>d15c62c2-aa6b-4315-90d1-8a9c812a2e9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>b9fe39cc-799b-4871-9519-ad4044d6306e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belanja'])[1]/following::div[2]</value>
+      <webElementGuid>5bc6e72f-cb53-45e2-8bd7-e27553157e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::div[7]</value>
+      <webElementGuid>08451f09-fa60-43f9-b070-94ec3a807e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand Unggulan'])[1]/preceding::div[1]</value>
+      <webElementGuid>956d6a66-8d67-4dc3-ab1f-d970066c3b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Halal Corner'])[1]/preceding::div[3]</value>
+      <webElementGuid>583631e8-440b-4903-bcea-a379ce828c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Featured']/parent::*</value>
+      <webElementGuid>ba814b5a-4ad9-4e3e-a472-18fc0a39b667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>e221c625-6d21-40d5-a2d8-3da8e47772f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Featured' or . = 'Featured')]</value>
+      <webElementGuid>4b9ad93c-a81d-45e0-a741-78cb8d22a5e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

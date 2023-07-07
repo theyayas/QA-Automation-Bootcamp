@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text - Yuk daftar sekarang dan nikmati berbagai benefit dari ACC</name>
+   <tag></tag>
+   <elementGuidId>67de47c4-cbff-4300-bc25-643e4d58fab4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-b1-Column1']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding-top-s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>10bda8b9-e766-44c9-a9bd-156fe02357e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-top-s</value>
+      <webElementGuid>9445d365-e09b-4d74-adb0-838d412c9c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yuk daftar sekarang dan nikmati berbagai benefit dari ACC</value>
+      <webElementGuid>4bcc8244-e850-4318-8731-f8216ffba081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b1-Column1&quot;)/div[@class=&quot;bg-blue-column flex-justify-center full-height&quot;]/div[1]/div[@class=&quot;padding-top-s&quot;]</value>
+      <webElementGuid>9166a0ce-dbaa-4aa0-a3e5-0778aa0d5882</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b1-Column1']/div/div/div[2]</value>
+      <webElementGuid>9f883526-2a95-43f6-9890-d7ac6b235efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tak Kenal Maka Tak Sayang'])[1]/following::div[1]</value>
+      <webElementGuid>5396ff01-2e2c-4ea5-9738-d284a1bb4fe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[22]</value>
+      <webElementGuid>973ea0e5-c444-4c8a-b67f-fbf2e27b0a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/preceding::div[1]</value>
+      <webElementGuid>0b4b4548-2856-4aaf-83d5-a0e0a5e45464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yuk daftar sekarang dan nikmati']/parent::*</value>
+      <webElementGuid>a6889c9b-bceb-462f-9103-38dc21801b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>b1451553-a191-4e23-9820-bbe3bc8548d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Yuk daftar sekarang dan nikmati berbagai benefit dari ACC' or . = 'Yuk daftar sekarang dan nikmati berbagai benefit dari ACC')]</value>
+      <webElementGuid>7fa3736e-03fd-435b-936a-59f8c962415f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Marks  Spencer</name>
+   <tag></tag>
+   <elementGuidId>ce9ec241-f2f2-4f65-953b-32bcbfd42544</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div[2]/a[14]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5169b5c5-603e-4caf-8d2b-4389297039cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/marksspencer</value>
+      <webElementGuid>d67f3aaa-a3be-4d35-bdc7-77293a3bb7e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1eyk9z8</value>
+      <webElementGuid>4be274ce-d5f7-4dc7-92da-3e2618939edf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Marks &amp; Spencer</value>
+      <webElementGuid>1254b3c4-5800-4507-a943-475c2cb3cb8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1s8dqy5 e90swyx2&quot;]/div[@class=&quot;css-1qr7rcv e1429ojz0&quot;]/div[@class=&quot;css-1iy09lx e1429ojz1&quot;]/div[@class=&quot;css-12nkv7 e1429ojz2&quot;]/div[@class=&quot;css-2fncvf-unf-tab e1429ojz3&quot;]/div[@class=&quot;css-3y7kva&quot;]/div[@class=&quot;css-sbvsi7&quot;]/a[@class=&quot;css-1eyk9z8&quot;]</value>
+      <webElementGuid>20e63d90-8668-4771-b447-04a7b4e58387</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div[2]/a[14]</value>
+      <webElementGuid>9e2032be-dc4c-42b1-9637-586d8a2a33cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Marks &amp; Spencer')]</value>
+      <webElementGuid>9d3f0015-be78-4272-ad2a-703726b4ca01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Levi', &quot;'&quot;, 's Official')])[1]/following::a[1]</value>
+      <webElementGuid>9419150c-8872-4bc1-b734-7f7c70aaef6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('L', &quot;'&quot;, 'Oreal Paris')])[1]/following::a[2]</value>
+      <webElementGuid>9ec58fd0-ea29-402a-81ba-6c34bde8987c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nestle Indonesia'])[1]/preceding::a[1]</value>
+      <webElementGuid>82ac5709-b5a4-4731-b8c9-edbc0c795dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ramayana'])[1]/preceding::a[2]</value>
+      <webElementGuid>ce8ef7f8-3815-4f3d-a214-f07486e80970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Marks &amp; Spencer']/parent::*</value>
+      <webElementGuid>3d586ed2-a6d3-4b4f-9d63-9f9137850e2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/marksspencer')]</value>
+      <webElementGuid>670f26bc-f529-44d0-b57f-4a2256f6739b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[14]</value>
+      <webElementGuid>8bbed727-5ac6-4690-ad81-fd14ae107022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/marksspencer' and (text() = 'Marks &amp; Spencer' or . = 'Marks &amp; Spencer')]</value>
+      <webElementGuid>dedd0de1-ddcc-4ca1-b6ae-ac02b5d65934</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

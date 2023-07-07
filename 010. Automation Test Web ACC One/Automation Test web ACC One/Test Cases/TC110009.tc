@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman Kalkulator Kredit Mobil Baru, Option Box DP (%) menampilkan nilai 20, 25, 30, 35, dan 40.</description>
+   <name>TC110009</name>
+   <tag>TC110009</tag>
+   <comment></comment>
+   <testCaseGuid>c15fa85a-c61f-4638-a679-cd2148e3546e</testCaseGuid>
+</TestCaseEntity>

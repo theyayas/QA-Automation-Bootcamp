@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kesehatan Halal</name>
+   <tag></tag>
+   <elementGuidId>4585c6e7-565f-4e05-ae4f-af83f88145b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div[2]/a[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a52eb903-0ccb-4fdd-89b2-e04621e69e77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/s/kesehatan-halal</value>
+      <webElementGuid>e34fcfff-1d8b-4027-8e12-37c57f8bddf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1eyk9z8</value>
+      <webElementGuid>bf167b7a-f459-430c-a5ce-fcdbe1346b25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kesehatan Halal</value>
+      <webElementGuid>140aba66-40ec-415f-bd3a-f89102d1895d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1s8dqy5 e90swyx2&quot;]/div[@class=&quot;css-1qr7rcv e1429ojz0&quot;]/div[@class=&quot;css-1iy09lx e1429ojz1&quot;]/div[@class=&quot;css-12nkv7 e1429ojz2&quot;]/div[@class=&quot;css-2fncvf-unf-tab e1429ojz3&quot;]/div[@class=&quot;css-3y7kva&quot;]/div[@class=&quot;css-sbvsi7&quot;]/a[@class=&quot;css-1eyk9z8&quot;]</value>
+      <webElementGuid>0dd535e8-9c2b-4051-bebb-c5a9a490ce6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div[2]/a[10]</value>
+      <webElementGuid>5f6dafb6-1cf3-4beb-a804-ea3ad72fc93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kesehatan Halal')]</value>
+      <webElementGuid>71e183f3-74f4-461c-92b9-fa78bb9ee4c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kecantikan Halal'])[1]/following::a[1]</value>
+      <webElementGuid>cd16e921-8ea7-46f6-a924-3adf9b2d7f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zakat'])[1]/following::a[2]</value>
+      <webElementGuid>0c567077-539e-4255-91cd-beb8b8c4a4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Makanan &amp; Minuman Halal'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a0cfbb3-ca61-4a21-8a45-be76d8aa9aa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion Muslim'])[1]/preceding::a[2]</value>
+      <webElementGuid>6522c415-1b11-48fb-9931-3a71897e4870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kesehatan Halal']/parent::*</value>
+      <webElementGuid>9c7655c7-d324-4b80-9530-a64d1361c7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/s/kesehatan-halal')]</value>
+      <webElementGuid>be17d7a3-421f-4a02-8115-38ba1c548c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[10]</value>
+      <webElementGuid>a5688c93-ce6e-45a3-b387-3f12e9596b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/s/kesehatan-halal' and (text() = 'Kesehatan Halal' or . = 'Kesehatan Halal')]</value>
+      <webElementGuid>151b7bfd-11c1-41ef-a37b-0a7dc2922bd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label - Password</name>
+   <tag></tag>
+   <elementGuidId>9bb7c659-58b2-4601-9b99-c47db37c9178</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='contact_form']/fieldset/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8d26d0ce-5c0a-4c82-ac23-d24b81588759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-4 control-label</value>
+      <webElementGuid>69f10ffa-de0d-401c-bc40-ca5edf40163d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password </value>
+      <webElementGuid>cb858475-b91e-4fd2-bb88-bd249fe7155b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contact_form&quot;)/fieldset[1]/div[@class=&quot;form-group&quot;]/label[@class=&quot;col-md-4 control-label&quot;]</value>
+      <webElementGuid>a07d186b-24e7-4c4d-b80c-c869eb94d860</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='contact_form']/fieldset/div[3]/label</value>
+      <webElementGuid>ddc624f1-7dee-4487-af95-5011a322693a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-Mail'])[1]/following::label[1]</value>
+      <webElementGuid>d1d55e6e-fdd1-4b87-b539-81f782fb2a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name'])[1]/following::label[2]</value>
+      <webElementGuid>5cb35a3d-2978-447b-9c4d-10de8e728cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of birth #'])[1]/preceding::label[1]</value>
+      <webElementGuid>2cd86587-06c4-42a5-a58d-2a2e5f450ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone #'])[1]/preceding::label[2]</value>
+      <webElementGuid>54b7927b-ec8e-4418-9691-6a0162f5a910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
+      <webElementGuid>580b1daf-1fc0-4faa-bbfa-fd40d1751f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label</value>
+      <webElementGuid>d717832e-fc96-4075-b49c-3049a253461f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Password ' or . = 'Password ')]</value>
+      <webElementGuid>0e30382a-c015-4966-90c0-8f859342d375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

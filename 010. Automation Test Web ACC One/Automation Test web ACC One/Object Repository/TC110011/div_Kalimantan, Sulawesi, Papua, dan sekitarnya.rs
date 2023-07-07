@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kalimantan, Sulawesi, Papua, dan sekitarnya</name>
+   <tag></tag>
+   <elementGuidId>6876062a-c1f4-4c07-ace6-30b77640b536</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-ListGroupArea2']/div[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a93c29c-066c-4d0e-a9a5-dba12c9223d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-item</value>
+      <webElementGuid>45e5f221-1823-448f-b1d1-ba5c10b40dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kalimantan, Sulawesi, Papua, dan sekitarnya</value>
+      <webElementGuid>7ed01671-9870-4c69-9e5e-1d99336d0190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-ListGroupArea2&quot;)/div[@class=&quot;list-item&quot;]</value>
+      <webElementGuid>774cbb8e-7dea-4410-8049-9865652b9696</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-ListGroupArea2']/div[6]</value>
+      <webElementGuid>9ae7e200-b7be-41ed-8ca3-19400e1a26af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sumatera dan sekitarnya'])[1]/following::div[1]</value>
+      <webElementGuid>882b3d6e-948b-4bd3-94ed-699fe91cc4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jawa Timur, Bali, dan sekitarnya'])[1]/following::div[2]</value>
+      <webElementGuid>87e3bc2d-15ff-48c7-9b0d-2044d2adc04f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Semua Rekomendasi Asuransi'])[1]/preceding::div[1]</value>
+      <webElementGuid>b313d4f4-aad5-4812-9083-4b364a67961c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[6]</value>
+      <webElementGuid>86de24fc-ecf6-4330-b6b0-27be98b46bc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kalimantan, Sulawesi, Papua, dan sekitarnya' or . = 'Kalimantan, Sulawesi, Papua, dan sekitarnya')]</value>
+      <webElementGuid>adc42869-8b49-4e3e-802d-1582dc64ceb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Format belum sesuai</name>
+   <tag></tag>
+   <elementGuidId>1bc8279d-60df-423c-9dd7-2137f004deee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-InputKataSandi3']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.validation-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>608e1c46-59d2-4d54-9ff9-d9e81dd18667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validation-message</value>
+      <webElementGuid>c766b8c1-354d-47c3-9f39-111e414cfe15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Format belum sesuai</value>
+      <webElementGuid>7347ff45-4eef-4283-8908-6c54c459317a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-InputKataSandi3&quot;)/span[@class=&quot;input-password&quot;]/span[@class=&quot;validation-message&quot;]</value>
+      <webElementGuid>b08910c2-a926-43c8-a7cc-0ad6d95719f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-InputKataSandi3']/span/span</value>
+      <webElementGuid>a7295325-8911-4b37-91b4-e8e5ba629a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[2]/following::span[2]</value>
+      <webElementGuid>7e7900bd-385a-4856-9c69-8923308fe192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email atau Nomor Handphone'])[2]/following::span[4]</value>
+      <webElementGuid>da30a093-107d-4d67-8faf-7bc1234810cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi?'])[2]/preceding::span[1]</value>
+      <webElementGuid>b0cc80a0-29df-4353-a925-ca4f0a7dadce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::span[2]</value>
+      <webElementGuid>8e696803-522d-4b9a-b1c0-be2f6c1c96a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Format belum sesuai']/parent::*</value>
+      <webElementGuid>652f91bd-9d7b-4255-af97-1a100f64de6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>21fa97f6-e4c4-49ce-86fb-4b7ff1726c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Format belum sesuai' or . = 'Format belum sesuai')]</value>
+      <webElementGuid>0616fd7d-dee1-48dc-b882-4011aaec7c78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

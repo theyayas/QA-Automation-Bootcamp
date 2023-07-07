@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Semua</name>
+   <tag></tag>
+   <elementGuidId>6159a6f5-73c3-4342-a44b-8eb28fa7a1cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.css-xn04xa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f1e3eb8-22fa-4156-a53a-edab5ca1ba8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.tokopedia.com/official-store/brand/</value>
+      <webElementGuid>dda2cc72-016e-4255-ae61-30034cd98b80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-xn04xa</value>
+      <webElementGuid>4dc4c9f4-c579-4b21-90e3-f07019cb551e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Semua</value>
+      <webElementGuid>9a61661f-bd6b-477d-a4f5-f31a09c9d392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1s8dqy5 e90swyx2&quot;]/div[@class=&quot;css-1qr7rcv e1429ojz0&quot;]/div[@class=&quot;css-1iy09lx e1429ojz1&quot;]/div[@class=&quot;css-12nkv7 e1429ojz2&quot;]/div[@class=&quot;css-2fncvf-unf-tab e1429ojz3&quot;]/div[@class=&quot;css-3y7kva&quot;]/div[@class=&quot;css-rpx4gp&quot;]/a[@class=&quot;css-xn04xa&quot;]</value>
+      <webElementGuid>2ae7befc-13f8-47e4-a63b-cd20aaa853f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div/a</value>
+      <webElementGuid>e671e678-8a22-4902-89dd-a7168ebd3742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat Semua')]</value>
+      <webElementGuid>1d13a9c4-d180-47f8-bb32-c434b6c21a0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lainnya'])[1]/following::a[1]</value>
+      <webElementGuid>3f0fc7d4-2074-4423-b7df-f7b8024426fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apotek Generik Waringin Bojonggede'])[1]/preceding::a[1]</value>
+      <webElementGuid>a7a553f1-8868-45ee-acbe-707b93cb7667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handuk Plus'])[1]/preceding::a[2]</value>
+      <webElementGuid>84002c3c-58d4-4157-95bb-076f46af282f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Semua']/parent::*</value>
+      <webElementGuid>49606af8-3447-4416-8b18-378f0af2fa9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.tokopedia.com/official-store/brand/')]</value>
+      <webElementGuid>ab765388-4cc4-4e64-8fcc-4c24b2c9f342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>12491f56-5820-4137-b2c4-e7c618273c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.tokopedia.com/official-store/brand/' and (text() = 'Lihat Semua' or . = 'Lihat Semua')]</value>
+      <webElementGuid>1c6ee48a-e692-4993-8d95-bd5ae2b09056</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

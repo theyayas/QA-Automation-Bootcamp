@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field - Tipe</name>
+   <tag></tag>
+   <elementGuidId>d4254b6e-1719-4821-8e79-ffd23770245b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-b8-Input']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b5-b8-Input > span.input-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>20240a57-176c-439c-81e0-36f40f20f2bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-text</value>
+      <webElementGuid>823c3bee-77d7-4a69-a36d-d83af1414458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b8-Input&quot;)/span[@class=&quot;input-text&quot;]</value>
+      <webElementGuid>17dbeed8-bc26-42ab-a26d-7a4688f04981</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b8-Input']/span</value>
+      <webElementGuid>f017f9b0-a5bd-4214-9ed8-af71f8097351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe'])[1]/following::span[1]</value>
+      <webElementGuid>800bc20c-0a5c-414c-9b34-f26d19a4427f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::span[2]</value>
+      <webElementGuid>f731bf46-1ed9-4c28-a818-f24630675385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[1]/preceding::span[1]</value>
+      <webElementGuid>0ce356f4-b3a7-4625-be3c-bfbb3277432c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tahun'])[1]/preceding::span[2]</value>
+      <webElementGuid>05b41ae3-f655-4222-b987-642786be1000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/span</value>
+      <webElementGuid>2937c3b0-b0eb-4c5a-b056-c60a8bb4f5bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jawa Timur, Bali, dan sekitarnya</name>
+   <tag></tag>
+   <elementGuidId>5b766ee6-c102-4254-9e85-1803ba8cbc8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-ListGroupArea2']/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02157572-cbe5-4c4c-a008-bd68233e52db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-item</value>
+      <webElementGuid>323ba3cf-0c74-44e1-a356-759d644686cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jawa Timur, Bali, dan sekitarnya</value>
+      <webElementGuid>c7b2be9c-2703-42da-8348-afff232b24a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-ListGroupArea2&quot;)/div[@class=&quot;list-item&quot;]</value>
+      <webElementGuid>063488a5-532c-4c0a-a704-b8392a15b113</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-ListGroupArea2']/div[4]</value>
+      <webElementGuid>49e8dbfb-cef7-419b-a20b-0f5f1dafa709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jawa Tengah dan DIY'])[1]/following::div[1]</value>
+      <webElementGuid>78d935dd-4727-4611-97dc-ea211403229e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jawa Barat'])[1]/following::div[2]</value>
+      <webElementGuid>e313e410-0acc-4689-959c-3eacdba57bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sumatera dan sekitarnya'])[1]/preceding::div[1]</value>
+      <webElementGuid>cb28c4dc-e98b-4e33-b6b8-aa324382d2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[2]/div[2]/div/div[4]</value>
+      <webElementGuid>d3d89ecc-e906-41ce-b8a5-fb6053178af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jawa Timur, Bali, dan sekitarnya' or . = 'Jawa Timur, Bali, dan sekitarnya')]</value>
+      <webElementGuid>33d207f8-5d1b-4a19-a508-c6670f8658e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

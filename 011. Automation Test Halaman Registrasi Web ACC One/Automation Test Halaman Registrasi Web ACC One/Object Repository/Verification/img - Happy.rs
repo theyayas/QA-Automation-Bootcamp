@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img - Happy</name>
+   <tag></tag>
+   <elementGuidId>22791052-fa27-4cc9-8e01-f8fdec2eac56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-b1-Column1']/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-blue-column.flex-justify-center.full-height > div > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>50e8d6d7-672e-42ef-bed3-6ee44a2f39f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/accone/img/acc_co_id_Theme.illustrasi_welcome.png?gwSz2RPIMBNdDzLO3TvVEQ</value>
+      <webElementGuid>8ce46c1c-36ee-4e06-8aa7-7a27f0703b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b1-Column1&quot;)/div[@class=&quot;bg-blue-column flex-justify-center full-height&quot;]/div[1]/img[1]</value>
+      <webElementGuid>97bacf51-7ef9-40ad-8451-f57420951fb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b1-Column1']/div/div/img</value>
+      <webElementGuid>a55a0b79-58c2-435a-92d4-2cbfd0837187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div/div/div/img</value>
+      <webElementGuid>83833182-b918-4b1e-9c2a-fe673864f9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/accone/img/acc_co_id_Theme.illustrasi_welcome.png?gwSz2RPIMBNdDzLO3TvVEQ']</value>
+      <webElementGuid>7f360b68-2ec6-4d1d-a817-d7db65a9a7dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

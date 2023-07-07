@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tokopedia Clean</name>
+   <tag></tag>
+   <elementGuidId>b4dff09d-ad89-4d8d-ae40-626823c6a3ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div[2]/a[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>44bd0615-11a3-4f6f-b252-c59c46582b00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/discovery/clean</value>
+      <webElementGuid>72b807bc-e9a0-4dc6-8c38-1af42520f65b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1eyk9z8</value>
+      <webElementGuid>3f4ab237-46a9-463c-be10-e8296ee7504a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tokopedia Clean</value>
+      <webElementGuid>04c3bc1e-14c1-45aa-918f-7eeb9bf76a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1s8dqy5 e90swyx2&quot;]/div[@class=&quot;css-1qr7rcv e1429ojz0&quot;]/div[@class=&quot;css-1iy09lx e1429ojz1&quot;]/div[@class=&quot;css-12nkv7 e1429ojz2&quot;]/div[@class=&quot;css-2fncvf-unf-tab e1429ojz3&quot;]/div[@class=&quot;css-3y7kva&quot;]/div[@class=&quot;css-sbvsi7&quot;]/a[@class=&quot;css-1eyk9z8&quot;]</value>
+      <webElementGuid>a014d126-b27b-4543-b850-f7176557cc60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div[2]/a[6]</value>
+      <webElementGuid>a5ad8e79-0f57-444c-a3fe-3017747ea627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tokopedia Clean')]</value>
+      <webElementGuid>9e64d01a-42d2-4ee4-b3b6-7ebc0b67683f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pasang Internet &amp; TV Kabel'])[1]/following::a[1]</value>
+      <webElementGuid>ef7da675-0fac-4225-896a-011fff85ccc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Donasi'])[1]/following::a[2]</value>
+      <webElementGuid>6d655b03-8416-4a5d-bbd6-c5787137dc8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tokopedia Print'])[1]/preceding::a[1]</value>
+      <webElementGuid>45a9b058-c92a-47f3-8f61-9275f0f19c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::a[2]</value>
+      <webElementGuid>a610043c-6292-4c1d-96c3-5f4401b0943c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tokopedia Clean']/parent::*</value>
+      <webElementGuid>ba9b988a-020f-4e89-b659-8dbab77b0466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/discovery/clean')]</value>
+      <webElementGuid>be6a6507-2b0b-40c6-ab1e-7fcbcbc79959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>7288c638-4fcc-4aeb-8ca9-4b042aaa21c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/discovery/clean' and (text() = 'Tokopedia Clean' or . = 'Tokopedia Clean')]</value>
+      <webElementGuid>e793e496-cf1d-4113-9ced-0522a0b5cc52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

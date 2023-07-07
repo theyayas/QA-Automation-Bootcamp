@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kontainer - Tak Kenal Maka Tak Sayang</name>
+   <tag></tag>
+   <elementGuidId>22ed9634-2e73-4af7-93da-0fd9e9380a8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-b1-Column1']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-blue-column.flex-justify-center.full-height</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>70bb071e-e58e-4123-a0cd-5b5625ee8d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-blue-column flex-justify-center full-height</value>
+      <webElementGuid>2c7a9f19-d92d-4402-91df-3a00dfecfb8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tak Kenal Maka Tak SayangYuk daftar sekarang dan nikmati berbagai benefit dari ACC</value>
+      <webElementGuid>cc42d6dc-42db-4b2b-9808-7fe574901ee7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b1-Column1&quot;)/div[@class=&quot;bg-blue-column flex-justify-center full-height&quot;]</value>
+      <webElementGuid>61ae3cb5-c61d-4f11-add8-7bd914083dd3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b1-Column1']/div</value>
+      <webElementGuid>5bb7b3a0-8246-4bcc-ae3b-672850c2f43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/following::div[19]</value>
+      <webElementGuid>aeb68df2-b066-4dbb-9902-b8d8fcc2b8c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum punya akun?'])[1]/following::div[19]</value>
+      <webElementGuid>c44e1eef-c20e-4943-86ce-463472446bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>9c167216-7740-4efd-8950-42ea74931da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tak Kenal Maka Tak SayangYuk daftar sekarang dan nikmati berbagai benefit dari ACC' or . = 'Tak Kenal Maka Tak SayangYuk daftar sekarang dan nikmati berbagai benefit dari ACC')]</value>
+      <webElementGuid>96ba822a-6b59-4463-a36a-4c64d0fa36bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Login</name>
+   <tag></tag>
+   <elementGuidId>20b5da48-9a09-49c0-ac7c-d1768f5e7a82</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/preceding::label[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>303b7e73-569f-4bc7-b702-1f9bbcd91339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>tab2</value>
+      <webElementGuid>2a12ff21-ce56-44a0-bc6d-ee2a46723191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>33e2987a-1fdc-40ca-8ec2-fb3b20fbbfa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[1]/div[@class=&quot;container&quot;]/section[@class=&quot;tabblue center&quot;]/ul[@class=&quot;tabs blue&quot;]/li[2]/label[1]</value>
+      <webElementGuid>6324020d-c0c4-4007-83d4-1773c5cea933</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/preceding::label[1]</value>
+      <webElementGuid>544f3bad-9df1-446b-991e-eda54430901f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>862dbb28-dbdc-48be-8344-aa7c994d0940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/label</value>
+      <webElementGuid>fc5f1039-2cf3-4bae-aa8e-c3cf9bdb3a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>746a58c1-4f96-4657-ad74-8285786575e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

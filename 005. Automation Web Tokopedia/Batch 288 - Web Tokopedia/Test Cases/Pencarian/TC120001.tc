@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pencarian Produk dengan keyword sepatu</description>
+   <name>TC120001</name>
+   <tag>TC120001</tag>
+   <comment></comment>
+   <testCaseGuid>e8649c31-8293-404a-8f28-068fc22c1996</testCaseGuid>
+</TestCaseEntity>

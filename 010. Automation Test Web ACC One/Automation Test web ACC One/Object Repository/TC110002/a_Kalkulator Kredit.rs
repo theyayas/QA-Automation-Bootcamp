@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kalkulator Kredit</name>
+   <tag></tag>
+   <elementGuidId>530a1722-685f-48ce-a12e-aeff7e51be1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b4-MenuSimulasi']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.menu-header-item.text-menu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ccb62f44-4b39-4de5-a294-82907bd1f4bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-header-item text-menu</value>
+      <webElementGuid>4ea07a04-4399-47ef-908a-19dbc0e37d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/accone/SimulasiKredit?ActiveTab=0&amp;DataSimulasi=&amp;FromBack=false</value>
+      <webElementGuid>5a8b5dd4-82be-4ef6-8a0a-629f41a68f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kalkulator Kredit</value>
+      <webElementGuid>0bdada49-522d-4242-b2e3-72f2c5a0b84e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b4-MenuSimulasi&quot;)/a[@class=&quot;menu-header-item text-menu&quot;]</value>
+      <webElementGuid>a04ed29e-a977-4b4e-907e-4c20a93cb0e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b4-MenuSimulasi']/a</value>
+      <webElementGuid>873f6b58-12e9-4f86-a085-c23613756e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kalkulator Kredit')]</value>
+      <webElementGuid>e4b671ff-49a0-4639-9e94-9ff33fb7330f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengkinian Data'])[1]/following::a[1]</value>
+      <webElementGuid>f2a0c517-9a41-4074-903b-4b9088c0989e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan Mandiri'])[1]/following::a[2]</value>
+      <webElementGuid>93d4e6a0-9fa8-4c0c-9dff-c031dd140013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::a[1]</value>
+      <webElementGuid>d682d4f0-f279-45fc-889a-68f732b19351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email atau Nomor Handphone'])[1]/preceding::a[2]</value>
+      <webElementGuid>fc6bc949-351d-4132-a834-db0c93decd0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kalkulator Kredit']/parent::*</value>
+      <webElementGuid>1b058174-41f1-4a10-9b71-4c114738804c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/accone/SimulasiKredit?ActiveTab=0&amp;DataSimulasi=&amp;FromBack=false')]</value>
+      <webElementGuid>12993635-a507-4289-be64-dc1133f84c9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a</value>
+      <webElementGuid>239b3f28-4588-4ae6-9b05-9f04f2000de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/accone/SimulasiKredit?ActiveTab=0&amp;DataSimulasi=&amp;FromBack=false' and (text() = 'Kalkulator Kredit' or . = 'Kalkulator Kredit')]</value>
+      <webElementGuid>1533eb3e-6040-482a-ad15-5e582e3ab1be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

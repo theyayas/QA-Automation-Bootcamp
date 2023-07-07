@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field - Select State</name>
+   <tag></tag>
+   <elementGuidId>de441900-0272-4c44-956a-a90b6a3c0a60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#stateId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='stateId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2ca27458-5a17-4eac-9053-6151a025746d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>state</value>
+      <webElementGuid>6c48eb78-0004-4c11-9ff8-c84b346c18ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>states</value>
+      <webElementGuid>4104c783-6a5a-40ab-9863-0e7005e5c076</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>stateId</value>
+      <webElementGuid>f9bee9e0-87db-49e9-8324-8e35c8be4d6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+     Select State
+</value>
+      <webElementGuid>478708d5-8120-4812-967d-62771f441d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stateId&quot;)</value>
+      <webElementGuid>3d06bb68-ac18-4fb0-b7db-82b5012d600d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='stateId']</value>
+      <webElementGuid>9ce8d82d-3420-47e1-bfdf-98635d0dfa65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-content1']/form/select[3]</value>
+      <webElementGuid>c08a489f-c57a-4dca-9d60-8a9e64a4ed6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::select[3]</value>
+      <webElementGuid>008426a8-2624-452e-8162-94ac33933d71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::select[2]</value>
+      <webElementGuid>5aadc980-8490-400d-9221-0703627a1409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[3]</value>
+      <webElementGuid>af082b23-d972-4fd6-b4ad-b6b6e1fcecc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'state' and @id = 'stateId' and (text() = '
+     Select State
+' or . = '
+     Select State
+')]</value>
+      <webElementGuid>be951acb-f400-4e12-94aa-0016225ebaf8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

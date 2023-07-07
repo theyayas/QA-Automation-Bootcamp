@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman utama, ketika mengklik button text &quot;Tentang Tokopedia&quot;, User diarahkan menuju tab baru &quot;Tentang Tokopedia: Ketahui Lebih Banyak Tentang Kami&quot;</description>
+   <name>TC110024</name>
+   <tag>TC110024</tag>
+   <comment></comment>
+   <testCaseGuid>8c52dfad-b927-41a0-9195-af936b20c242</testCaseGuid>
+</TestCaseEntity>

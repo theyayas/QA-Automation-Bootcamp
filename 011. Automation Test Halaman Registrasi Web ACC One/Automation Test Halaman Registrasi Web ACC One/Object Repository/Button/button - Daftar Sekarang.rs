@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button - Daftar Sekarang</name>
+   <tag></tag>
+   <elementGuidId>aaba6b9a-b5c6-47ff-8e92-69f7c541e11c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding-top-l > button.btn.btn-primary.OSFillParent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>54f153af-9a23-4c49-9dc4-7df6ec07fab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary OSFillParent</value>
+      <webElementGuid>f7089bba-ed85-4b30-9295-3fc262367fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>40493e0e-1301-4782-8557-423bf96ae40e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Sekarang</value>
+      <webElementGuid>4c3426ef-4a23-44ee-9847-a67b94879e19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b1-Column2&quot;)/div[@class=&quot;flex-justify-center full-height&quot;]/div[@class=&quot;padding-l OSInline&quot;]/div[@class=&quot;padding-top-l&quot;]/button[@class=&quot;btn btn-primary OSFillParent&quot;]</value>
+      <webElementGuid>45f9ce88-9681-4218-8cdb-a8ab046d50e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>4a16624c-c83c-467d-bebb-82f6442b8016</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b1-Column2']/div/div/div[9]/button</value>
+      <webElementGuid>6df7dee4-56d8-44bc-ac06-264637592720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Kata Sandi'])[1]/following::button[1]</value>
+      <webElementGuid>2d4e3f80-a0f4-48ff-a8d7-317934543834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimal 7 karakter dan kombinasi angka. Contoh : Astra345'])[1]/following::button[1]</value>
+      <webElementGuid>05b7cd01-8f77-409f-801a-d38df4f94c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perlu Bantuan?'])[1]/preceding::button[1]</value>
+      <webElementGuid>a6363913-0888-4ec8-a0f2-9928dad45973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Center'])[1]/preceding::button[1]</value>
+      <webElementGuid>5ef41f13-9f61-49ee-b574-593ef6452318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/button</value>
+      <webElementGuid>58bc158a-c44b-41a6-817f-a657d4db859d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Daftar Sekarang' or . = 'Daftar Sekarang')]</value>
+      <webElementGuid>8d0a7d6b-5466-4ca6-a4d1-991405256ff0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

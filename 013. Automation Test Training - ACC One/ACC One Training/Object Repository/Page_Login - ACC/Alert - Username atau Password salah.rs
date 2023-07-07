@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alert - Username atau Password salah</name>
+   <tag></tag>
+   <elementGuidId>ffbf8e21-9019-4037-a903-69d5f4b9e422</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='feedbackMessageContainer']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.feedback-message.feedback-message-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>85167b29-02a1-4537-9428-18d2cfd23492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>feedback-message feedback-message-error</value>
+      <webElementGuid>13f4b05b-be44-42ea-af73-f3a8b3fe4780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username atau Password salah</value>
+      <webElementGuid>9fa816a3-b9d9-495b-a910-1273f31568c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;feedbackMessageContainer&quot;)/div[@class=&quot;feedback-message feedback-message-error&quot;]</value>
+      <webElementGuid>e8de4d7f-413b-49ab-826e-b59522455fc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='feedbackMessageContainer']/div</value>
+      <webElementGuid>705646c2-4a6f-4f3e-a24b-d5dfc034e1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download aplikasi ACC ONE'])[1]/preceding::div[3]</value>
+      <webElementGuid>04e91a59-97c9-4171-bee4-46e6ebe3c7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div</value>
+      <webElementGuid>a9a77ee0-7376-47b6-ae31-57d767913280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Username atau Password salah' or . = 'Username atau Password salah')]</value>
+      <webElementGuid>c892d865-b256-4799-bb3a-14189080d6b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

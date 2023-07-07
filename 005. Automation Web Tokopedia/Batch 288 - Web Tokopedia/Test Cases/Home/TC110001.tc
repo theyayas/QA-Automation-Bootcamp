@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masuk ke halaman home Tokopedia tanpa user login</description>
+   <name>TC110001</name>
+   <tag>TC110001</tag>
+   <comment></comment>
+   <testCaseGuid>a7a38c0e-b6d9-4155-a318-ac718fa8efa8</testCaseGuid>
+</TestCaseEntity>

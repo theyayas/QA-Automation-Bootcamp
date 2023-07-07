@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menampilkan list &quot;Lainnya&quot; ketika berada pada halaman Home, kursor diarahkan ke text &quot;Kategori&quot;, kemudian klik text button &quot;Lainnya&quot;</description>
+   <name>TC110023</name>
+   <tag>TC110023</tag>
+   <comment></comment>
+   <testCaseGuid>d825157c-8865-4f7e-a761-376183226584</testCaseGuid>
+</TestCaseEntity>

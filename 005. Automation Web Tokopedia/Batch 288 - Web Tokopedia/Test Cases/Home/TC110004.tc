@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ketika masuk ke halaman utama, terdapat GIF bertuliskan &quot;Ambil Diskon 10%&quot; yang dapat dipilih</description>
+   <name>TC110004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7c71f2e-08e4-4465-be33-6e3f74ef88df</testCaseGuid>
+</TestCaseEntity>

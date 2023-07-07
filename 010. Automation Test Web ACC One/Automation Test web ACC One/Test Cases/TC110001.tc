@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masuk ke halaman Kalkulator Kredit Mobil Baru</description>
+   <name>TC110001</name>
+   <tag>TC110001</tag>
+   <comment></comment>
+   <testCaseGuid>e069615e-7ae7-4fa4-a336-fefa7356a83c</testCaseGuid>
+</TestCaseEntity>

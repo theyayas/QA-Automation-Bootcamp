@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>State - Sulawesi Tengah</name>
+   <tag></tag>
+   <elementGuidId>91df97aa-4817-474a-95b7-075337bfe2b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#stateId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='stateId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>17e09ae7-5ffb-46a4-ace8-9e0b55afca03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>state</value>
+      <webElementGuid>ec038f0d-0fd1-4ee3-acc4-223131451fd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>states</value>
+      <webElementGuid>242f8f43-c4e1-4a62-b00d-ee49e8aab9b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>stateId</value>
+      <webElementGuid>2f46e642-f8ad-45ed-a9ed-625588cfe36d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+     Select State
+AcehBaliBangka-BelitungBantenBengkuluGandariaGorontaloJakartaJambiJawa BaratJawa TengahJawa TimurKalimantan BaratKalimantan SelatanKalimantan TengahKalimantan TimurKendalLampungMalukuMaluku UtaraNusa Tenggara BaratNusa Tenggara TimurPapuaRiauRiau KepulauanSoloSulawesi SelatanSulawesi TengahSulawesi TenggaraSulawesi UtaraSumatera BaratSumatera SelatanSumatera UtaraYogyakarta</value>
+      <webElementGuid>4e24397d-4eb2-47f1-9d24-a47029dfaf47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stateId&quot;)</value>
+      <webElementGuid>4a481ee9-0552-40b5-b8aa-dd3ee59d9b6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='stateId']</value>
+      <webElementGuid>608c928b-6382-48fc-9552-0118fb1dec2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-content1']/form/select[3]</value>
+      <webElementGuid>055e4956-a24c-4b61-8cc7-21dff0c66047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::select[3]</value>
+      <webElementGuid>716f3514-e7bf-4a04-9ea3-4bec66bb7e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::select[2]</value>
+      <webElementGuid>700d0975-1e88-4013-af38-d7249c14678c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[3]</value>
+      <webElementGuid>8fd647b5-0124-4f88-9df8-8a78b419c569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'state' and @id = 'stateId' and (text() = '
+     Select State
+AcehBaliBangka-BelitungBantenBengkuluGandariaGorontaloJakartaJambiJawa BaratJawa TengahJawa TimurKalimantan BaratKalimantan SelatanKalimantan TengahKalimantan TimurKendalLampungMalukuMaluku UtaraNusa Tenggara BaratNusa Tenggara TimurPapuaRiauRiau KepulauanSoloSulawesi SelatanSulawesi TengahSulawesi TenggaraSulawesi UtaraSumatera BaratSumatera SelatanSumatera UtaraYogyakarta' or . = '
+     Select State
+AcehBaliBangka-BelitungBantenBengkuluGandariaGorontaloJakartaJambiJawa BaratJawa TengahJawa TimurKalimantan BaratKalimantan SelatanKalimantan TengahKalimantan TimurKendalLampungMalukuMaluku UtaraNusa Tenggara BaratNusa Tenggara TimurPapuaRiauRiau KepulauanSoloSulawesi SelatanSulawesi TengahSulawesi TenggaraSulawesi UtaraSumatera BaratSumatera SelatanSumatera UtaraYogyakarta')]</value>
+      <webElementGuid>9721985e-008d-44b6-985c-8e2cd70c35b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

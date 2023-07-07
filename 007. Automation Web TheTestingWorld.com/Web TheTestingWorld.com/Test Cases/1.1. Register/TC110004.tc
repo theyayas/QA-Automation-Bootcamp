@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ketika berada pada halaman registrasi, jika semua field mandatory terisi, yaitu field username, email, password, re-password, gender dan “I agree with terms and conditions”, kemudian menekan tombol &quot;Sign Up&quot;, maka user berhasil melakukan Registrasi</description>
+   <name>TC110004</name>
+   <tag>TC110002</tag>
+   <comment></comment>
+   <testCaseGuid>e99e7dbb-137d-4b4c-889e-8bafdd51b7fe</testCaseGuid>
+</TestCaseEntity>

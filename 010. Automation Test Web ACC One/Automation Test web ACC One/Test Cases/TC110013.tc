@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman Kalkulator Kredit Mobil Baru, jika CheckBox &quot;Pilih Semua Rekomendasi Asuransi&quot; terpilih / ter-checklist, kemudian mengklik Option Box &quot;Lihat Detail Asuransi&quot; di bawahnya, maka layar menampilkan daftar Paket Asuransi dengan Radio Button yang secara default memilih &quot;Total  Loss Only&quot;, Pembayaran Asuransi uang secara default memilih &quot;Cash&quot; dan Checkbox &quot;Astra Credit Protection&quot; secara default terpilih/terchecklist</description>
+   <name>TC110013</name>
+   <tag>TC110013</tag>
+   <comment></comment>
+   <testCaseGuid>c2d6ab81-47ea-462b-aa7e-5a7ab05dde97</testCaseGuid>
+</TestCaseEntity>

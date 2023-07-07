@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman Kalkulator Kredit Mobil Baru, setelah mengisi semua field untuk Kalkulator Kredit Mobil Baru, layar menampilkan nilai Angsuran Per Bulan dan TDP yang sesuai dengan hasil Hitung Simulasi</description>
+   <name>TC110002</name>
+   <tag>TC110002</tag>
+   <comment></comment>
+   <testCaseGuid>dc3a1d3b-c629-4489-aaa9-3d759440019a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button - Daftar Pengguna Baru</name>
+   <tag></tag>
+   <elementGuidId>e87a8a3b-a0cd-4956-ab25-4280e0c8a938</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fa86681a-e837-4876-b609-acb725abc65b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary OSFillParent</value>
+      <webElementGuid>7f98460a-45a8-410e-af1b-db57c796073d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>09497820-7d49-44a4-8bd5-9070cf7cae18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Pengguna Baru</value>
+      <webElementGuid>af96a1aa-c414-4d4c-af77-f261ee4f4002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b1-Column2&quot;)/div[@class=&quot;flex-justify-center full-height&quot;]/div[@class=&quot;padding-xl OSInline&quot;]/div[6]/button[@class=&quot;btn btn-primary OSFillParent&quot;]</value>
+      <webElementGuid>140c0db9-aa97-4fc0-9bda-cab9a42113a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>95784df9-293b-4dbc-9946-63c27046e61b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b1-Column2']/div/div/div[6]/button</value>
+      <webElementGuid>5782797f-d44e-4c26-9eaf-5de1297ffd21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau'])[1]/following::button[1]</value>
+      <webElementGuid>ed656ecc-8901-49a4-a0c5-4410e870db92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/following::button[1]</value>
+      <webElementGuid>7b1b9e7b-88bd-4fea-a51e-4c5fdc60dd2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perlu Bantuan?'])[1]/preceding::button[1]</value>
+      <webElementGuid>23a33c86-cfea-44a1-add2-ac4908790e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Center'])[1]/preceding::button[1]</value>
+      <webElementGuid>0559649d-520d-4d18-a40e-c027f5d82725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Pengguna Baru']/parent::*</value>
+      <webElementGuid>f2243dbc-8a08-4c5c-ae01-e4d6f3dc94ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>24ef6ba7-8feb-4a3c-986b-75062f12ed23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Daftar Pengguna Baru' or . = 'Daftar Pengguna Baru')]</value>
+      <webElementGuid>cd82c514-7bfe-403a-92fe-f4c6608efde4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

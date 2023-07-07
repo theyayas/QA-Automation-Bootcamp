@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jawa Tengah dan DIY</name>
+   <tag></tag>
+   <elementGuidId>e646efc4-9eb8-4198-bbfd-7e496876b40e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-ListGroupArea2']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3cacd4c1-ad4e-4130-a73a-f7ecf97df29f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-item</value>
+      <webElementGuid>8462ba28-ae84-4e68-bdb9-be917907ed92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jawa Tengah dan DIY</value>
+      <webElementGuid>f3245682-d50e-4945-9cf0-7dd8d4d8b519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-ListGroupArea2&quot;)/div[@class=&quot;list-item&quot;]</value>
+      <webElementGuid>73a921a6-75f5-460b-993f-97ac5cfd9c8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-ListGroupArea2']/div[3]</value>
+      <webElementGuid>54a5d0ec-b877-46cd-afc2-e20fd7746461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jawa Barat'])[1]/following::div[1]</value>
+      <webElementGuid>44d41f1a-60e4-4bfd-add5-fd9878cf18d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DKI Jakarta dan Banten'])[1]/following::div[2]</value>
+      <webElementGuid>e60c7509-24fd-4038-8278-5aa5b6731ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jawa Timur, Bali, dan sekitarnya'])[1]/preceding::div[1]</value>
+      <webElementGuid>d09bb8e4-70a0-443a-b627-15c65e78fe4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[2]/div[2]/div/div[3]</value>
+      <webElementGuid>a2a571d5-a6c8-49cf-8def-500a1ab5c4f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jawa Tengah dan DIY' or . = 'Jawa Tengah dan DIY')]</value>
+      <webElementGuid>c9b57ca0-68aa-456c-9c3d-91c3b2ec32a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

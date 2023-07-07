@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Official Store</name>
+   <tag></tag>
+   <elementGuidId>6162d0be-df41-420f-9540-249c47c69f4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/section[2]/div[3]/section/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>517f1e6d-ea22-4c2f-8776-ed9fd85ff74f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-t5es2</value>
+      <webElementGuid>eae6cf49-339d-4766-8b2f-71de4d95c0a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Official Store</value>
+      <webElementGuid>e07ed2db-c867-42e8-99f4-65a352678bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-1rhxxyn&quot;]/section[@class=&quot;css-1jllmtg&quot;]/div[@class=&quot;css-183zhx4&quot;]/section[@class=&quot;css-13zqo9n-unf-card eeeacht0&quot;]/div[@class=&quot;css-x2jffe&quot;]/div[@class=&quot;css-qu5ty6&quot;]/h2[@class=&quot;css-t5es2&quot;]</value>
+      <webElementGuid>785a8886-a5d5-46d8-aad9-98436aee04cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/section[2]/div[3]/section/div/div/h2</value>
+      <webElementGuid>a8bc9be2-16bc-4c10-8f05-fdd79d0a413a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='next'])[4]/following::h2[1]</value>
+      <webElementGuid>29737fb2-ba60-4653-87ad-e2b299e1bd48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='prev'])[4]/following::h2[1]</value>
+      <webElementGuid>50b04b2f-35a7-4d53-aa8e-ae458de534ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[4]/preceding::h2[1]</value>
+      <webElementGuid>81676745-a4a3-4b76-a060-fa00c58ea5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ramadan Ekstra'])[1]/preceding::h2[1]</value>
+      <webElementGuid>b70558e5-fb45-4d45-98e1-c7813b571cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Official Store']/parent::*</value>
+      <webElementGuid>56709e9a-798e-4c4c-b7dd-8a2c977fb319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/section/div/div/h2</value>
+      <webElementGuid>7e1feaa1-9f37-44d7-bf4e-fb74a1aa9eda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Official Store' or . = 'Official Store')]</value>
+      <webElementGuid>b7bd9ddc-6d10-46b7-9267-74b6ddf268d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menampilkan list &quot;Travel &amp; Entertaiment&quot; ketika berada pada halaman Home, kursor diarahkan ke text &quot;Kategori&quot;, kemudian klik text button &quot;Travel &amp; Entertaiment&quot;</description>
+   <name>TC110021</name>
+   <tag>TC110021</tag>
+   <comment></comment>
+   <testCaseGuid>f3d0dd19-2769-485e-9f35-bd35b0afd94d</testCaseGuid>
+</TestCaseEntity>

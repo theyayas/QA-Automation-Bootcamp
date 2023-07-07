@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ALL NEW SIRION</name>
+   <tag></tag>
+   <elementGuidId>dad58692-0e43-460e-a455-a1944b011239</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='b5-l2-174_0-txt_namaarea5']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b5-l2-174_0-txt_namaarea5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>64fb8c1d-7129-48d7-98b0-cccd2566eed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b5-l2-174_0-txt_namaarea5</value>
+      <webElementGuid>ff61242c-1cfe-4825-b6a9-1d10fff31b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ALL NEW SIRION</value>
+      <webElementGuid>83120030-7f08-4ee4-9690-93b9c545c035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-l2-174_0-txt_namaarea5&quot;)</value>
+      <webElementGuid>2693bce9-355e-4445-adbf-c67dcb21b229</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='b5-l2-174_0-txt_namaarea5']</value>
+      <webElementGuid>ecc80034-8fe9-4e2e-9300-4b7456557ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-ListGroupType']/div/span</value>
+      <webElementGuid>e66c3041-7a55-43c7-aaf6-6d7cdaac7d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe'])[1]/following::span[2]</value>
+      <webElementGuid>6168fad2-e95d-41ff-98ce-e9a873cbed3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::span[3]</value>
+      <webElementGuid>e053ca9c-1e6e-41b8-8b4a-d925f6104fca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL NEW TERIOS'])[1]/preceding::span[1]</value>
+      <webElementGuid>2d498cda-81b2-4270-bf02-4da8784cab23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GRAND NEW XENIA'])[1]/preceding::span[2]</value>
+      <webElementGuid>5a1337df-9b38-4e49-8ebd-62d04830e4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ALL NEW SIRION']/parent::*</value>
+      <webElementGuid>5858e87c-15d6-414e-843d-86963f74cad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/span</value>
+      <webElementGuid>be55b235-d53d-4e74-b65f-15fdfb7dd99e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'b5-l2-174_0-txt_namaarea5' and (text() = 'ALL NEW SIRION' or . = 'ALL NEW SIRION')]</value>
+      <webElementGuid>d584a018-f7a0-4440-8a49-12196a32919f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Mitra Tokopedia</name>
+   <tag></tag>
+   <elementGuidId>ccedd08c-44b1-4f69-bcbe-c25420ca5896</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2a83f90b-97a0-41e4-b115-1c50703afb68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mitra/</value>
+      <webElementGuid>af9aeb4d-e650-4a94-8167-95aa1fbc5a6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>112b7d1e-e42c-4d78-86a2-53b9097abe81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>9def0dc7-b8d4-4899-aedf-0dcf58c01044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-f0xez1</value>
+      <webElementGuid>3bbab634-9145-431e-b395-ac68f435df05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>btnHeaderMitra</value>
+      <webElementGuid>717e2a40-661d-4bef-b80e-3243a22a0d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mitra Tokopedia</value>
+      <webElementGuid>a3f765d7-e283-464d-a9c3-8576334cd3ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1jzqg4i edxse4c2&quot;]/div[@class=&quot;css-1dm32rh edxse4c4&quot;]/a[@class=&quot;css-f0xez1&quot;]</value>
+      <webElementGuid>4ddd6393-6ca4-4549-b49b-eb9c6b9feda2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div/div[2]/a[2]</value>
+      <webElementGuid>9c2502f4-92b1-46a2-9cb1-a86650872f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Mitra Tokopedia')]</value>
+      <webElementGuid>582d1f1c-05cf-458d-8d06-a081e82cb572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Tokopedia'])[1]/following::a[1]</value>
+      <webElementGuid>e7015e08-ba02-4f76-91bc-f9bd451686f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai Berjualan'])[1]/preceding::a[1]</value>
+      <webElementGuid>6fb75286-78b6-417f-80a6-c552a9fff4ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[1]/preceding::a[2]</value>
+      <webElementGuid>eaf4507b-584a-4e5a-92e3-f1e30e92e3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mitra Tokopedia']/parent::*</value>
+      <webElementGuid>79f3c559-531b-4c14-8b28-838a672f6add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/mitra/')]</value>
+      <webElementGuid>cdc0ee97-552a-43b7-b49a-d4f3a5a2fb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>d7d02804-a345-45c1-b054-33a202ebcc98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/mitra/' and (text() = 'Mitra Tokopedia' or . = 'Mitra Tokopedia')]</value>
+      <webElementGuid>7a171425-7873-45fa-89c0-9813d5380888</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

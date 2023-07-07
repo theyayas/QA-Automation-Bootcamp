@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text - Daftar Sekarang</name>
+   <tag></tag>
+   <elementGuidId>cc257576-d45f-4a63-aeb8-363f3b28f581</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-b1-Column2']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.h6.bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>907511da-bdb0-45b3-a296-8e13939b3e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h6 bold</value>
+      <webElementGuid>46414b8c-0350-4ab7-8732-2cdf3f24cb91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Sekarang</value>
+      <webElementGuid>a21ea839-d5f2-4f49-b609-46a6c44ebd88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b1-Column2&quot;)/div[@class=&quot;flex-justify-center full-height&quot;]/div[@class=&quot;padding-l OSInline&quot;]/div[@class=&quot;h6 bold&quot;]</value>
+      <webElementGuid>299dbbee-3d43-4495-99b5-d2af51c0f3c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b1-Column2']/div/div/div</value>
+      <webElementGuid>45798247-7a04-498b-9f5c-35368c155c93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tak Kenal Maka Tak Sayang'])[1]/following::div[5]</value>
+      <webElementGuid>be7223e5-1571-4350-8d19-bd169ebdba9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[2]/preceding::div[1]</value>
+      <webElementGuid>8232a70c-019c-495f-b554-21dded90dee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Sekarang']/parent::*</value>
+      <webElementGuid>d5353801-6c6e-4786-9604-3cb0b689642d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>d7bff59b-ba58-49a7-bf33-2e2d12c7ca48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Daftar Sekarang' or . = 'Daftar Sekarang')]</value>
+      <webElementGuid>9734ba38-4115-4aee-b6f0-ba708395ac56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

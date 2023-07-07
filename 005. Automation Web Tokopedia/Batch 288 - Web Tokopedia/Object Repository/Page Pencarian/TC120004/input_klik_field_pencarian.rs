@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_klik_field_pencarian</name>
+   <tag></tag>
+   <elementGuidId>870fc956-cc0b-4640-84da-a550e72b0969</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='sepatu']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.css-ubsgp5.e110g5pc0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0e84499f-9b69-4c54-b557-2066c586bd95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c1903e05-6eba-403f-a33a-b4af6675e56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Bidang pencarian</value>
+      <webElementGuid>0000a7bb-da7f-47cf-bbbd-19eccbf8c202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>17c156c7-c9ed-4572-a69d-8776f8fb672b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari box hampers</value>
+      <webElementGuid>07872137-4855-43ad-bca4-3cbb813b819a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>sepatu</value>
+      <webElementGuid>272b4944-8e47-4bfc-b409-cc3ed637f0c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-ubsgp5 e110g5pc0</value>
+      <webElementGuid>c4d75a21-0c4e-46c5-973e-adbfef0fd821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-container&quot;)/form[@class=&quot;css-w3ze74&quot;]/div[@class=&quot;css-1aeefbt e1aezlny3&quot;]/div[@class=&quot;css-103lvbt e1aezlny2&quot;]/div[@class=&quot;css-10a6rua e1v32nag0&quot;]/input[@class=&quot;css-ubsgp5 e110g5pc0&quot;]</value>
+      <webElementGuid>29c64163-5165-4c9f-83be-c93386d5b61a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='sepatu']</value>
+      <webElementGuid>5063fab4-7dfb-4873-a801-bc3dff8df12f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-container']/form/div/div/div/input</value>
+      <webElementGuid>c8444d67-6631-45c0-b0ea-ff3a9f40ad38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>d9d7e8f0-311b-4329-b369-8d4549b806eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari box hampers']</value>
+      <webElementGuid>287f1b16-feff-4f51-9637-fbc4efd2aaf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

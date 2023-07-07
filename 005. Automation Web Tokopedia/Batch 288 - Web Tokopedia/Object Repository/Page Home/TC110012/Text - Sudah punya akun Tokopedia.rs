@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text - Sudah punya akun Tokopedia</name>
+   <tag></tag>
+   <elementGuidId>ea6ea22a-9bb2-4607-87fe-59a28d19925a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/div[2]/div[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3434ba3-bdbf-4652-b9e7-1c99e220e936</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sudah punya akun Tokopedia?</value>
+      <webElementGuid>e07a5117-cda0-4141-9bf8-ac83587d947d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-nuukba&quot;]/div[@class=&quot;css-1x0s3fz&quot;]/div[@class=&quot;right__container&quot;]/div[@class=&quot;css-173ke7b&quot;]/div[@class=&quot;box__desc&quot;]/span[1]</value>
+      <webElementGuid>d714d69c-7e6e-4371-82c5-b76b78176cff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/div[2]/div[2]/div/div/span</value>
+      <webElementGuid>7ecd6bf3-20c8-4e1b-8830-e22357dfae75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/following::span[1]</value>
+      <webElementGuid>ae51dcff-a033-4cdd-8222-62348f97f216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gabung dan rasakan kemudahan bertransaksi di Tokopedia'])[1]/following::span[1]</value>
+      <webElementGuid>4fa5b2e4-573c-4e72-98a4-3397ee7bac9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::span[1]</value>
+      <webElementGuid>d0fe029c-b336-4bc1-b4d7-8d0efcaa1ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/preceding::span[1]</value>
+      <webElementGuid>b81b96c8-b372-4c10-8b38-72f0e6d82e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sudah punya akun Tokopedia?']/parent::*</value>
+      <webElementGuid>1aa2f503-a681-484b-9f23-226f9a45798c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>48d9598c-2547-464c-a528-5a83c5672dce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sudah punya akun Tokopedia?' or . = 'Sudah punya akun Tokopedia?')]</value>
+      <webElementGuid>255516f2-b32d-4b96-ae39-59c9f708fbaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button Link - Lihat Semua with Gambar</name>
+   <tag></tag>
+   <elementGuidId>72f50a09-3de1-445d-b629-a5d05c257075</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/section[2]/div/section/div[3]/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1alz7ov > img.success.fade</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5d311e1b-cee3-4d66-abda-2ddca10be215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>crossorigin</name>
+      <type>Main</type>
+      <value>anonymous</value>
+      <webElementGuid>610df712-14ff-4ac3-b33e-2e6729e5cf35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>success fade</value>
+      <webElementGuid>b648a600-50b6-4e06-be6e-9103df8c58fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images.tokopedia.net/img/cache/240/PYbRbC/2022/3/31/467cfaaf-b723-499d-9733-8082cec776a3.png.webp?ect=4g</value>
+      <webElementGuid>a61fae36-9dee-482e-a699-426b4b2d6551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>banner info</value>
+      <webElementGuid>d4e4eaf4-a355-4349-ad3b-02b7bb2b36ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-1rhxxyn&quot;]/section[@class=&quot;css-1jllmtg&quot;]/div[@class=&quot;css-183zhx4&quot;]/section[@class=&quot;css-13zqo9n-unf-card eeeacht0&quot;]/div[@class=&quot;css-17ufkuw&quot;]/a[@class=&quot;css-j8xcz2&quot;]/div[@class=&quot;css-1alz7ov&quot;]/img[@class=&quot;success fade&quot;]</value>
+      <webElementGuid>c5ffa2cd-b4ff-49df-a9a2-4cd3a008ac3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/section[2]/div/section/div[3]/a/div/img</value>
+      <webElementGuid>dfda1978-2b83-4d4f-b2f5-f9ffa46ebe0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='banner info']</value>
+      <webElementGuid>8f0fb7a9-610e-4bbe-ae9c-37209c3e659c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/img</value>
+      <webElementGuid>1513b4ad-0c82-4eec-a103-d98c50bf663e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://images.tokopedia.net/img/cache/240/PYbRbC/2022/3/31/467cfaaf-b723-499d-9733-8082cec776a3.png.webp?ect=4g' and @alt = 'banner info']</value>
+      <webElementGuid>6a1257a6-51de-4ab2-810a-22a9f6c9237c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

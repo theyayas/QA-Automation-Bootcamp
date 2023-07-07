@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menampilkan list &quot;Halal Corner&quot; ketika berada pada halaman Home, kursor diarahkan ke text &quot;Kategori&quot;, kemudian klik text button &quot;Halal Corner&quot;</description>
+   <name>TC110015</name>
+   <tag>TC110015</tag>
+   <comment></comment>
+   <testCaseGuid>8a04dc0f-0382-4705-8316-ce9547553d55</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button - Lihat Semua</name>
+   <tag></tag>
+   <elementGuidId>9e913f05-bb91-4e8c-9232-016a51c4b370</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/section[2]/div/section/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.css-4tikzq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c31c1a01-907a-4d1d-9000-d8d4025cce4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-4tikzq</value>
+      <webElementGuid>ec3510b1-336f-492d-856c-3856df5541c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.tokopedia.com/discovery/pengguna-baru?componentID=79759</value>
+      <webElementGuid>85a29e14-2fae-4c24-bbbc-143da373f788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>ff39d822-2a32-43bb-829a-39a6691cbb99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>e4dc1123-e020-4e90-8fc8-c15b58f10e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>aLinkHeader</value>
+      <webElementGuid>c6a45908-59df-4d26-a35b-838b6b7c97fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Semua</value>
+      <webElementGuid>6e562738-2487-40e4-9ade-ca823b8c297b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-1rhxxyn&quot;]/section[@class=&quot;css-1jllmtg&quot;]/div[@class=&quot;css-183zhx4&quot;]/section[@class=&quot;css-13zqo9n-unf-card eeeacht0&quot;]/div[@class=&quot;css-x2jffe&quot;]/div[@class=&quot;css-fcoe5x&quot;]/a[@class=&quot;css-4tikzq&quot;]</value>
+      <webElementGuid>29253188-4c61-41b7-9bc4-415a7ad16969</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/section[2]/div/section/div/div[2]/a</value>
+      <webElementGuid>c8416494-12b7-4bb3-8b6e-0327c5da33c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lihat Semua')])[2]</value>
+      <webElementGuid>4e2d92e1-9998-4760-bfd1-c4f4c8184711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[2]/following::a[1]</value>
+      <webElementGuid>cd8c5fff-157f-4dc1-9da1-30f0c7d8b3f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/following::a[1]</value>
+      <webElementGuid>f5409880-774a-4870-9147-070c2550bd9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cross Body Shoulder Sling Bag Tas Selempang Pria Wanita Unisex'])[1]/preceding::a[3]</value>
+      <webElementGuid>d0697208-cd99-4b78-91bf-909a5aa1f35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 0'])[1]/preceding::a[3]</value>
+      <webElementGuid>253eed31-0150-4dad-89ed-b6d45901e58f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.tokopedia.com/discovery/pengguna-baru?componentID=79759')]</value>
+      <webElementGuid>6665c9bb-96fc-4ba2-8c56-3c65bad9fa9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/section/div/div[2]/a</value>
+      <webElementGuid>a1c15d01-697b-4f41-9499-2560c71c9b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.tokopedia.com/discovery/pengguna-baru?componentID=79759' and (text() = 'Lihat Semua' or . = 'Lihat Semua')]</value>
+      <webElementGuid>4e2605f5-d8a5-4ce7-9474-3612ccfded76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

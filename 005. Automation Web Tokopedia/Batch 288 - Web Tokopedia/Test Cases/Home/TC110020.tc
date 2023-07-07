@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menampilkan list &quot;Top-Up&quot; ketika berada pada halaman Home, kursor diarahkan ke text &quot;Kategori&quot;, kemudian klik text button &quot;Top-Up&quot;</description>
+   <name>TC110020</name>
+   <tag>TC110020</tag>
+   <comment></comment>
+   <testCaseGuid>706d5081-5333-4d47-98a0-d1415e52562f</testCaseGuid>
+</TestCaseEntity>

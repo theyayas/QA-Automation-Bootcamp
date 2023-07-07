@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>NEGTC04 - Email Tidak Valid</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>5ad00ca2-ede8-419e-bc6c-fc8c9a83e709</dataFileGUID>
+   <dataSourceUrl>D:\Batch288\xa-batch-288-qa-teknologi\003. Yasin\013. Automation Test Training - ACC One\ACC One Training\Data Binding\Data Login.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Email Tidak Valid</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

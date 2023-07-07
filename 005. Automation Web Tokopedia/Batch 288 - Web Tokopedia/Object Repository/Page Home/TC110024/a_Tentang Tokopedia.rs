@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tentang Tokopedia</name>
+   <tag></tag>
+   <elementGuidId>b097701c-283f-4d10-a3b4-54706a920fa3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.css-f0xez1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b33e5ff3-f6e9-481f-876d-5e26b4751a68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/about/</value>
+      <webElementGuid>61c85037-8147-44e8-a788-bb521b9e5096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>8cc681fd-dc49-44de-aba9-8d6838cb4092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>1f1dc30a-bd82-466e-a962-a86b1eca4921</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-f0xez1</value>
+      <webElementGuid>7fd20c3d-eaba-4b3c-8ac7-78420ac05b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>btnHeaderAbout</value>
+      <webElementGuid>f737ea99-e46f-4adc-bda8-f7f85333109d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tentang Tokopedia</value>
+      <webElementGuid>18e1c8d5-110e-4308-87e1-0a983b2499a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-1jzqg4i edxse4c2&quot;]/div[@class=&quot;css-1dm32rh edxse4c4&quot;]/a[@class=&quot;css-f0xez1&quot;]</value>
+      <webElementGuid>54c0c756-ed6d-4e7c-a052-ca09e32c3793</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div/div[2]/a</value>
+      <webElementGuid>9bf4ef4d-d2c9-4d7a-8055-a4cd90d38789</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tentang Tokopedia')]</value>
+      <webElementGuid>3a5dd38e-ef2a-4cf8-8334-f954db5893f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitra Tokopedia'])[1]/preceding::a[1]</value>
+      <webElementGuid>40bae6be-3a5b-4c62-945e-2bc25b7850c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mulai Berjualan'])[1]/preceding::a[2]</value>
+      <webElementGuid>2f809ed7-bab3-4ed4-945b-8515500ef10f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tentang Tokopedia']/parent::*</value>
+      <webElementGuid>e7cc6aa2-3333-4e2e-9e41-3766a8c25ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/about/')]</value>
+      <webElementGuid>75a3946b-6024-4485-8438-c5746ed21e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>5332d80b-c61e-416d-b5c6-64d7328abe7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/about/' and (text() = 'Tentang Tokopedia' or . = 'Tentang Tokopedia')]</value>
+      <webElementGuid>02eb32db-f7b2-46fb-bfcd-b4e6ffef565e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

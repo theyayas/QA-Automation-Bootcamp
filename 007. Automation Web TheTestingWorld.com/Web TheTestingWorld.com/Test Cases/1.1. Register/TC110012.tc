@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman registrasi, ketika menekan button text &quot;Read Detail&quot;, maka akan menampilkan Pop-Up berupa &quot;Terms and Condition&quot; dari web tersebut</description>
+   <name>TC110012</name>
+   <tag>TC110012</tag>
+   <comment></comment>
+   <testCaseGuid>df4b5e42-7afe-4743-abbf-577017b8f44d</testCaseGuid>
+</TestCaseEntity>

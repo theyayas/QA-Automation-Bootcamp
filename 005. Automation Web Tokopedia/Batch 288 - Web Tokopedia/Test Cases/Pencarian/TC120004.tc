@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ketika menekan kotak pencarian setelah pertama kali, layar menampilkan saran pencarian seperti &quot;Terakhir dicari&quot;, &quot;pencarian populer&quot; dan &quot;kategori pilihan&quot;</description>
+   <name>TC120004</name>
+   <tag>TC120004</tag>
+   <comment></comment>
+   <testCaseGuid>b0c67523-c5de-41c6-ac25-533d394b387e</testCaseGuid>
+</TestCaseEntity>

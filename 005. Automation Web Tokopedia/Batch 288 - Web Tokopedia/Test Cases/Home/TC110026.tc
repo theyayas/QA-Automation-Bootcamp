@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman utama, ketika mengklik button text &quot;Mulai Berjualan&quot;, User diarahkan menuju tab baru &quot;Mulai Berjualan: Pusat Seller | Topik&quot;</description>
+   <name>TC110026</name>
+   <tag>TC110026</tag>
+   <comment></comment>
+   <testCaseGuid>d979c031-1c03-4114-b1f5-b2706ac6d32b</testCaseGuid>
+</TestCaseEntity>

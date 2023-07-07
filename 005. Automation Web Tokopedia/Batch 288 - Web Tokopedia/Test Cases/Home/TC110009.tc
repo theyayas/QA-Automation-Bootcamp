@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Layar menampilkan popup berupa &quot;Scan this QR or Download app from: &quot; ketika kursor diarahkan ke &quot;Download Tokopedia App&quot;</description>
+   <name>TC110009</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12fc5640-ffbd-404d-a9df-9d060a2c3682</testCaseGuid>
+</TestCaseEntity>

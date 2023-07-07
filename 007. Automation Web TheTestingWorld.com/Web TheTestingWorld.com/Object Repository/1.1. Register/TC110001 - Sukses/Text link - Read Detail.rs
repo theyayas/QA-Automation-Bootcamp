@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text link - Read Detail</name>
+   <tag></tag>
+   <elementGuidId>c4046889-455c-4608-8cfb-ee459a27afb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.displayPopup</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tab-content1']/form/div/em/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>81b09e2e-19b0-4173-aa3f-be9224be5242</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>ceb3931e-f454-4931-9165-5d5bc83e8a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>displayPopup</value>
+      <webElementGuid>48b10f12-a641-4410-964f-dc59592a2f80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Read Detail</value>
+      <webElementGuid>46c3b050-c652-495c-8222-3cec7549cef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-content1&quot;)/form[1]/div[@class=&quot;btn&quot;]/em[1]/a[@class=&quot;displayPopup&quot;]</value>
+      <webElementGuid>413e81b5-9e98-4b92-bf20-26362c89ea72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-content1']/form/div/em/a</value>
+      <webElementGuid>4e942019-1084-4134-9c5c-071b74043287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Read Detail')]</value>
+      <webElementGuid>1bfd5dd9-e9a5-4a02-94e7-df268899d362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::a[1]</value>
+      <webElementGuid>9d859840-0f07-40f4-bbf8-487d6dffea16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged in'])[1]/preceding::a[1]</value>
+      <webElementGuid>5ac1b686-f74a-4875-9c8d-145829dfe5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Read Detail']/parent::*</value>
+      <webElementGuid>5001a8a0-03ef-4720-b577-c2233b78d9a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>16c965e0-9319-41a8-88f5-2f4aac35ab4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em/a</value>
+      <webElementGuid>98adc209-add7-4ddc-bead-1818400ae958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Read Detail' or . = 'Read Detail')]</value>
+      <webElementGuid>29e8abbd-380c-457c-8250-16663f552b57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

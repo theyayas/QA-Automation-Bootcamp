@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field - Choose Gender</name>
+   <tag></tag>
+   <elementGuidId>6526ffc4-fe6e-4b95-b1f0-08a87e886ebb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;sex&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='sex']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c746bef5-5a34-4b4f-95fd-b23f87aed88d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sex</value>
+      <webElementGuid>a2332612-54f9-4bde-9490-fe96b4c5d3d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Choose Gender
+                  Male
+                  Female
+                </value>
+      <webElementGuid>66ff3862-8168-4476-9d4d-4f82a7707b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-content1&quot;)/form[1]/select[1]</value>
+      <webElementGuid>0e1a8d6c-a3cd-4f71-b78c-bb2e8c95da30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='sex']</value>
+      <webElementGuid>6a6aab29-205c-475c-9085-a5e1e9989fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-content1']/form/select</value>
+      <webElementGuid>a59dd8e0-d56d-4800-9af3-b6bcd0c4a1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::select[1]</value>
+      <webElementGuid>c8a0892a-87ea-4dfa-89ce-671bfd1c8e12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::select[4]</value>
+      <webElementGuid>fb2ceb3b-6081-4c90-aa10-aa69be463dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>fdc06945-f345-4da8-80b7-c8623ece4438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sex' and (text() = '
+                  Choose Gender
+                  Male
+                  Female
+                ' or . = '
+                  Choose Gender
+                  Male
+                  Female
+                ')]</value>
+      <webElementGuid>4403f01f-518e-4d4a-acf8-289c5065a03b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

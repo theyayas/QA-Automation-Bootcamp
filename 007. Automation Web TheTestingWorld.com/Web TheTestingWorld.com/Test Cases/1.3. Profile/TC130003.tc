@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman profile, layar menampilkan Username sesuai dengan inputan ketika Login, yang tidak dapat diedit</description>
+   <name>TC130003</name>
+   <tag>TC130003</tag>
+   <comment></comment>
+   <testCaseGuid>1b487ca0-80de-4aff-8070-331d63bb1b0e</testCaseGuid>
+</TestCaseEntity>

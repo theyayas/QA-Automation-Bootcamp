@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select City Kosong</name>
+   <tag></tag>
+   <elementGuidId>80d12cb3-2fff-40ce-a444-da920e7a5543</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='cityId']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cityId</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>06cbc025-3a1c-4d9a-b6bd-f6f919a25d23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>city</value>
+      <webElementGuid>99854129-bdd4-4633-a8b2-b56d1872b1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>last cities</value>
+      <webElementGuid>7c0041f7-54db-406a-ab07-8d63d7e40659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cityId</value>
+      <webElementGuid>7a4a25fe-2734-415b-985c-8a0a979ebf7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+   Select City
+</value>
+      <webElementGuid>48d03531-9354-4a12-a497-b6634c863328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cityId&quot;)</value>
+      <webElementGuid>10568599-95f0-467e-b846-b85dfc6522a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='cityId']</value>
+      <webElementGuid>ffd20ed7-6a46-4ad2-a04b-cb58df84fd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-content1']/form/select[4]</value>
+      <webElementGuid>6af76cdf-60b3-4061-9000-4724f72816db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::select[4]</value>
+      <webElementGuid>217a582c-04ea-4798-b265-7be8ca7d0fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::select[1]</value>
+      <webElementGuid>66804636-1fe3-4611-9584-bc2ea7cd465a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[4]</value>
+      <webElementGuid>8fce5aa2-5ffa-45e3-ae9e-2dd4a95b8ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'city' and @id = 'cityId' and (text() = '
+   Select City
+' or . = '
+   Select City
+')]</value>
+      <webElementGuid>1904e98a-539a-4c23-89dc-ab56a02b7c80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

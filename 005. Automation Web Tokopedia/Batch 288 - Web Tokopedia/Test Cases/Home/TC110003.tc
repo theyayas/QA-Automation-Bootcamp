@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ketika masuk ke halaman utama, ditampilkan banner iklan berupa promo yang dapat bergerak secara otomatis</description>
+   <name>TC110003</name>
+   <tag>TC110003</tag>
+   <comment></comment>
+   <testCaseGuid>e1da82f9-537c-4e99-9323-54ae2901655b</testCaseGuid>
+</TestCaseEntity>

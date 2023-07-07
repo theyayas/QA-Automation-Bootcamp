@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Spesial warga Bandung</name>
+   <tag></tag>
+   <elementGuidId>0606c0ad-bda7-48c8-87b3-8e60119c907d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/section[2]/div[2]/section/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>7e41b7d7-6708-48b1-a5ee-fb3842a371a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-t5es2</value>
+      <webElementGuid>251c068d-e97e-4973-bc59-5e584fe2fbb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Spesial warga Bandung</value>
+      <webElementGuid>3724a58c-4669-4c40-9128-29ba7956b54b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-1rhxxyn&quot;]/section[@class=&quot;css-1jllmtg&quot;]/div[@class=&quot;css-183zhx4&quot;]/section[@class=&quot;css-13zqo9n-unf-card eeeacht0&quot;]/div[@class=&quot;css-x2jffe&quot;]/div[@class=&quot;css-qu5ty6&quot;]/h2[@class=&quot;css-t5es2&quot;]</value>
+      <webElementGuid>cba4a6c9-3bb2-4928-b791-c57dd9bb17ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/section[2]/div[2]/section/div/div/h2</value>
+      <webElementGuid>dd693f4b-05c1-40b4-905a-5bcef58632c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='next'])[3]/following::h2[1]</value>
+      <webElementGuid>5d5e6241-2df4-4704-8fef-921c4eed64ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='prev'])[3]/following::h2[1]</value>
+      <webElementGuid>ccaf2ec2-2408-4be8-8dba-679132af4858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berakhir dalam'])[2]/preceding::h2[1]</value>
+      <webElementGuid>0e566404-55a4-4be2-a4e6-4c648567dcfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[3]/preceding::h2[1]</value>
+      <webElementGuid>889d9d59-16fc-4c12-8608-17442b36a33d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Spesial warga Bandung']/parent::*</value>
+      <webElementGuid>1de0bb12-6fa5-49d7-b244-8f1f07d452d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div[2]/section/div/div/h2</value>
+      <webElementGuid>ed75e794-6cf1-48b7-b32a-4f12bb8a5cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Spesial warga Bandung' or . = 'Spesial warga Bandung')]</value>
+      <webElementGuid>07e05ee3-b3e7-4e89-a247-c8e54de7f5e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

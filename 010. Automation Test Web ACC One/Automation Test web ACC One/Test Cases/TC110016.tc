@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman Kalkulator Kredit Mobil Baru, setelah mengisi semua field untuk Kalkulator Kredit Mobil Baru, kemudian menekan tombol &quot;Hitung Simulasi&quot;, kemudian menekan tombol &quot;Ajukan Pembiayaan&quot;, layar menampilkan Pop Up yang bertuliskan &quot;Ajukan sebagai:&quot; dengan default tab yang aktif adalah tab &quot;Guest&quot; kemudian menekan tab &quot;Pengguna ACC One&quot;, layar menampilkan field berupa Email atau Nomor Handphone, Kata sandi, Text Button &quot;Lupa kata sandi?&quot;, button &quot;Masuk&quot;, dan Text Button &quot;Daftar&quot;</description>
+   <name>TC110016</name>
+   <tag>TC110016</tag>
+   <comment></comment>
+   <testCaseGuid>0c258a4b-3a54-43cc-8c9c-ecb1f5fa3b99</testCaseGuid>
+</TestCaseEntity>

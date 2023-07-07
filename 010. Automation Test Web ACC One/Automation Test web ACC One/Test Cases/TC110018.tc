@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman Kalkulator Kredit Mobil, ketika ingin mengajukan Pembiayaan Mobil sebagai Guest, dengan mengisi Nama Sesuai KTP, No Handphone yang valid, dan Email yang valid, maka dapat mengajukan Pembiayaan sebagai Guest</description>
+   <name>TC110018</name>
+   <tag>TC110018</tag>
+   <comment></comment>
+   <testCaseGuid>0e90379b-e5a0-4ffc-aa04-60f6be9bffde</testCaseGuid>
+</TestCaseEntity>

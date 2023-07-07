@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Password Lemah</name>
+   <tag></tag>
+   <elementGuidId>12ddc774-067a-43e1-b3c6-1857d488953e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-InputKataSandi']/span/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.pass-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a3baa8af-b2ef-431e-a6b2-373cf093f638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pass-text</value>
+      <webElementGuid>df02172e-514d-43e8-ba08-bdef486d34e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password Lemah</value>
+      <webElementGuid>47ec5a22-f1f7-4c2c-bbbd-dce9a35ae047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-InputKataSandi&quot;)/span[@class=&quot;input-password pass-strength-visible&quot;]/div[@class=&quot;pass-wrapper&quot;]/span[@class=&quot;pass-text&quot;]</value>
+      <webElementGuid>a860c0b4-3785-43ff-b5e2-e041f858ba72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-InputKataSandi']/span/div/span</value>
+      <webElementGuid>b4f806e6-3bc3-406e-8172-d9bb28b203be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[2]/following::span[2]</value>
+      <webElementGuid>1c53d15d-fbab-4e5b-b7fa-b09f3e755fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/following::span[3]</value>
+      <webElementGuid>770b991a-2f83-4cdc-b45c-9e44e2098f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password harus memiliki minimal 7 karakter dan 1 angka. Contoh : biko1234'])[1]/preceding::span[1]</value>
+      <webElementGuid>a1841492-038d-4197-b997-f25232acd544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimal 7 karakter dan kombinasi angka. Contoh : Astra345'])[1]/preceding::span[2]</value>
+      <webElementGuid>b2576f46-0396-41c6-9d00-81b04e45f888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password Lemah']/parent::*</value>
+      <webElementGuid>0b8c7121-2651-43b1-a4a3-b8b195b151b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/span</value>
+      <webElementGuid>7eed84ae-e712-4af0-9338-6196e7e72e9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Password Lemah' or . = 'Password Lemah')]</value>
+      <webElementGuid>b825c221-668d-4e99-a5c8-755783ce99e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

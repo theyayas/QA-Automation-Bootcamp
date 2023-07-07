@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Banner Iklan</name>
+   <tag></tag>
+   <elementGuidId>d0ab6c04-d17b-4504-a658-dc698ae78133</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/div[2]/div/div/div/div/div[2]/div/div/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.success.fade</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9becfefe-ea9b-4290-a2e3-f1209f4dadf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>crossorigin</name>
+      <type>Main</type>
+      <value>anonymous</value>
+      <webElementGuid>39a61f4f-61c7-4fe9-88b7-580e4e09bf5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>success fade</value>
+      <webElementGuid>f04d38f8-dad8-4705-abac-af250c2b8d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images.tokopedia.net/img/cache/1208/NsjrJu/2022/4/22/9d405a8a-970d-42a9-9ddc-034d62370f77.jpg.webp?ect=3g</value>
+      <webElementGuid>71761808-ed13-48e6-890d-9bbca7508f2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>X_PG_HPB1_All User_Ramadan Ekstra 2022_26 Apr 22_HariIni</value>
+      <webElementGuid>a04b0026-27ba-49eb-a17f-c55912bfeafb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-1rhxxyn&quot;]/div[@class=&quot;css-1jllmtg relative&quot;]/div[@class=&quot;css-x2z7wj&quot;]/div[@class=&quot;css-79elbk css-oxdscw&quot;]/div[@class=&quot;css-ztvvor&quot;]/div[@class=&quot;css-m4pgbx carousel&quot;]/div[@class=&quot;css-l3n1jj&quot;]/div[@class=&quot;css-sncotz center&quot;]/div[1]/a[@class=&quot;css-eys9li&quot;]/div[@class=&quot;css-12azmii&quot;]/img[@class=&quot;success fade&quot;]</value>
+      <webElementGuid>bae089b0-bd5c-4660-8746-ddd423df8222</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/div[2]/div/div/div/div/div[2]/div/div/a/div/img</value>
+      <webElementGuid>db8d720f-96a8-4cbb-ab15-e35126ee05ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='X_PG_HPB1_All User_Ramadan Ekstra 2022_26 Apr 22_HariIni']</value>
+      <webElementGuid>c409c258-3e2c-4383-8030-539d2e3678bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/div/img</value>
+      <webElementGuid>3bc89987-c7e2-4f22-a62d-e9538b91ae35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://images.tokopedia.net/img/cache/1208/NsjrJu/2022/4/22/9d405a8a-970d-42a9-9ddc-034d62370f77.jpg.webp?ect=3g' and @alt = 'X_PG_HPB1_All User_Ramadan Ekstra 2022_26 Apr 22_HariIni']</value>
+      <webElementGuid>f82a95cd-dc6d-44c1-a233-caf99eb4f630</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

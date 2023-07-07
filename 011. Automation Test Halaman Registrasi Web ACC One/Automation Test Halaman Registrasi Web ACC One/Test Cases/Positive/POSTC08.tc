@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman registrasi, setelah mengisi field Konfirmasi Kata Sandi kemudian mengklik icon Mata pada field tersebut, maka menampilkan Kata Sandi sesuai dengan yang diinputkan</description>
+   <name>POSTC08</name>
+   <tag>TC110026</tag>
+   <comment></comment>
+   <testCaseGuid>975067dc-21b1-4d3d-8bdb-7f4af6e06cc8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f808b2f0-d15e-48d8-8a93-f32496d8d69f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1234567f'</defaultValue>
+      <description></description>
+      <id>f808b2f0-d15e-48d8-8a93-f32496d8d69f</id>
+      <masked>false</masked>
+      <name>konfirmasiKataSandi</name>
+   </variable>
+</TestCaseEntity>

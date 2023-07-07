@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text - Traktiran Pengguna Baru</name>
+   <tag></tag>
+   <elementGuidId>dea29530-2c75-4ac2-a80e-a8d43abb1c4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/section[2]/div/section/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.css-t5es2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>baf8a219-012d-4779-83ff-00ab22b86e4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-t5es2</value>
+      <webElementGuid>1676f66a-9589-4ab6-9ee1-c81c93f9b737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Traktiran Pengguna Baru</value>
+      <webElementGuid>77d6f87b-0502-49e2-8bb6-898624225470</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-1rhxxyn&quot;]/section[@class=&quot;css-1jllmtg&quot;]/div[@class=&quot;css-183zhx4&quot;]/section[@class=&quot;css-13zqo9n-unf-card eeeacht0&quot;]/div[@class=&quot;css-x2jffe&quot;]/div[@class=&quot;css-qu5ty6&quot;]/h2[@class=&quot;css-t5es2&quot;]</value>
+      <webElementGuid>624e6cbe-8e05-442b-bfaf-09f6a428c8c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/section[2]/div/section/div/div/h2</value>
+      <webElementGuid>f5976269-8da9-44fb-b083-c4efa482e931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komputer &amp; Laptop'])[1]/following::h2[1]</value>
+      <webElementGuid>f2b2c609-d4cc-4fbc-b417-952a98b962bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keuangan'])[1]/following::h2[1]</value>
+      <webElementGuid>f9945fba-e520-494f-a4d4-fb05473761f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berakhir dalam'])[1]/preceding::h2[1]</value>
+      <webElementGuid>c38160c5-7c26-418e-8c59-89b48c74b8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[1]/preceding::h2[1]</value>
+      <webElementGuid>3a1df024-36cd-47ed-8f75-10c2c1f708bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Traktiran Pengguna Baru']/parent::*</value>
+      <webElementGuid>52a70e02-ebee-4a1f-82fa-730cb3cc6408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/section/div/div/h2</value>
+      <webElementGuid>774d1575-2893-43e4-96c5-7c40e0abc014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Traktiran Pengguna Baru' or . = 'Traktiran Pengguna Baru')]</value>
+      <webElementGuid>063f5b50-1dfc-4c92-be94-cf4c0623d427</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

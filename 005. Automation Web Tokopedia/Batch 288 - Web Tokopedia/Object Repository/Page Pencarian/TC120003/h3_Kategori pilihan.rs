@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Kategori pilihan</name>
+   <tag></tag>
+   <elementGuidId>6febe1d9-ad29-4145-8507-8ae1f5e5b78e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-container']/div/div/div/h3[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>5cf71a49-1e0f-48d9-81d1-0b359ba755fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-k8wueb</value>
+      <webElementGuid>63fd9fcd-a979-4c22-95a7-487626544182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>hHeaderAutocomPopulerTitle</value>
+      <webElementGuid>fbc49f9a-3239-47ad-b279-187b417af5c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kategori pilihanRefresh</value>
+      <webElementGuid>3eb9df2d-41a8-44c5-9acc-c592fa1f78dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-container&quot;)/div[@class=&quot;css-1jn6tgt e1aezlny0&quot;]/div[1]/div[@class=&quot;css-xq97c2 containerDropdown&quot;]/h3[@class=&quot;css-k8wueb&quot;]</value>
+      <webElementGuid>f885a60d-315f-4123-b9c4-b779c41efb03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-container']/div/div/div/h3[2]</value>
+      <webElementGuid>8dce1246-3a08-4104-835b-289f47d44c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vacum Cleaner'])[1]/following::h3[1]</value>
+      <webElementGuid>525a1cd8-800c-4f52-b289-071204be35ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diskon s.d 1 Juta + Free SC+ s.d 2.7 Juta'])[1]/following::h3[1]</value>
+      <webElementGuid>adf6caac-757f-4f68-a15b-6426af82eff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Film &amp; Musik'])[1]/preceding::h3[1]</value>
+      <webElementGuid>69a08fdf-f4b7-47bc-b59a-d20f3cd081eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kategori pilihan']/parent::*</value>
+      <webElementGuid>0ab4d81c-1375-4029-acde-36e6abde4bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3[2]</value>
+      <webElementGuid>31feb015-e3a8-4425-99e3-927c13f09a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Kategori pilihanRefresh' or . = 'Kategori pilihanRefresh')]</value>
+      <webElementGuid>8d125721-11a5-4608-9877-c7dc4d9ee16c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

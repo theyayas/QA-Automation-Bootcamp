@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman registrasi, ketika mengisi field Kata Sandi, kemudian meghapusnya, maka menampilkan alert berupa &quot;Kata sandi harus diisi&quot;</description>
+   <name>NEGTC17</name>
+   <tag>NEGTC17</tag>
+   <comment></comment>
+   <testCaseGuid>e4eb7deb-420c-42ad-9751-38809913bdda</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>559c71cc-9342-456c-afcd-f50e3193df2f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1234567f'</defaultValue>
+      <description></description>
+      <id>559c71cc-9342-456c-afcd-f50e3193df2f</id>
+      <masked>false</masked>
+      <name>kataSandi</name>
+   </variable>
+</TestCaseEntity>

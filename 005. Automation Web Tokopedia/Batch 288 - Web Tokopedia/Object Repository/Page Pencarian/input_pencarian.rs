@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_pencarian</name>
+   <tag></tag>
+   <elementGuidId>d5b5a447-60e7-4054-842a-54eb229a581e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.css-ubsgp5.e110g5pc0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8d51c0dd-6e5f-4b68-86a9-6a4b9fb36839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>beb660a7-2997-47c3-b44d-7ecefb847eca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Bidang pencarian</value>
+      <webElementGuid>320604e7-2f6a-4447-8a67-14111588cb85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>4086a2fc-4041-4ad6-86cc-ce6dbe491365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari laptop</value>
+      <webElementGuid>67394141-8d01-4fb2-9cae-67c95bcad662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-ubsgp5 e110g5pc0</value>
+      <webElementGuid>523304cf-1c1f-4152-925b-bebc943ada08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-container&quot;)/form[@class=&quot;css-w3ze74&quot;]/div[@class=&quot;css-1tul5ni e1aezlny3&quot;]/div[@class=&quot;css-103lvbt e1aezlny2&quot;]/div[@class=&quot;css-10a6rua e1v32nag0&quot;]/input[@class=&quot;css-ubsgp5 e110g5pc0&quot;]</value>
+      <webElementGuid>fdf51c52-1483-40b0-b5c2-4a9296f92409</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>e61c6726-9f8d-4410-ae2d-03ddbe6782c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-container']/form/div/div/div/input</value>
+      <webElementGuid>e9a4da66-860b-48b5-976f-ab15375a2916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>06684909-5473-406e-8f44-a15664db3f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari laptop']</value>
+      <webElementGuid>246dd5b7-3014-4fb4-89b9-f31259095c7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

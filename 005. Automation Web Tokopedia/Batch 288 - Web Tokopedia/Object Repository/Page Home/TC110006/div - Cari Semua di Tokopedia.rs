@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div - Cari Semua di Tokopedia</name>
+   <tag></tag>
+   <elementGuidId>c55cbbb0-e347-4544-acfc-06da02362d9e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='zeus-root']/div/main/section[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-8q5ftl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1e65ccf-4365-4441-906a-3d189101afb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-8q5ftl</value>
+      <webElementGuid>bf6bb4c4-c424-476a-a45f-b6d4500220ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cari Semua di Tokopedia!</value>
+      <webElementGuid>b18747e9-fe22-4521-be77-e9680107ab0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;zeus-root&quot;)/div[@class=&quot;css-3lpl5n&quot;]/main[@class=&quot;css-1rhxxyn&quot;]/section[@class=&quot;css-1jllmtg&quot;]/div[1]/div[@class=&quot;css-8q5ftl&quot;]</value>
+      <webElementGuid>f22a3fd6-e25d-4ffa-bdb2-38b2ff8811f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='zeus-root']/div/main/section[4]/div/div</value>
+      <webElementGuid>e6633069-2a22-4e56-b202-c1863ba34c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muat Lebih Banyak'])[1]/following::div[2]</value>
+      <webElementGuid>25d1c13f-d342-4c66-8390-57d4e3f3df72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjual 100 rb+'])[2]/following::div[3]</value>
+      <webElementGuid>ba80b3d0-bf9f-4d6b-8d29-1e7f9b5d09e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[2]/preceding::div[1]</value>
+      <webElementGuid>3cca9fde-126f-42a0-9bbd-ab61b01db687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiket Pesawat'])[1]/preceding::div[2]</value>
+      <webElementGuid>38f99123-c868-4ea3-ae35-7ab3ff076991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cari Semua di Tokopedia!']/parent::*</value>
+      <webElementGuid>04618244-4c4c-4005-91d1-7b530039544a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div</value>
+      <webElementGuid>8659e21d-6c56-46e2-ac20-1b848be0ed86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cari Semua di Tokopedia!' or . = 'Cari Semua di Tokopedia!')]</value>
+      <webElementGuid>de081863-be0b-4195-bc3a-e7bd6edcc05f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

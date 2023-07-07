@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>NEGTC02 - Email Salah</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>cb6c36bf-6439-47e8-876e-06827dcb8cc6</dataFileGUID>
+   <dataSourceUrl>D:\Batch288\xa-batch-288-qa-teknologi\003. Yasin\013. Automation Test Training - ACC One\ACC One Training\Data Binding\Data Login.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Email Salah</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

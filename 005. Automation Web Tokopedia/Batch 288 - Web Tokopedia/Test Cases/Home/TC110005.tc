@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ketika masuk ke halaman utama untuk pertama kali (belum login), layar menampilkan box besar berupa  &quot;Traktiran pengguna baru&quot;</description>
+   <name>TC110005</name>
+   <tag>TC110005</tag>
+   <comment></comment>
+   <testCaseGuid>3537c624-2257-4bbe-877b-0e09dc652ff6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pada halaman utama, ketika mengklik button text &quot;Tokopedia Care&quot;, User diarahkan menuju tab baru &quot;Tokopedia Care&quot;</description>
+   <name>TC110028</name>
+   <tag>TC110028</tag>
+   <comment></comment>
+   <testCaseGuid>b169d4b2-42cb-484e-9865-c3ebdceb8448</testCaseGuid>
+</TestCaseEntity>

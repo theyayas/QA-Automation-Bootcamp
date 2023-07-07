@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img - lihat konfirmasi kata sandi</name>
+   <tag></tag>
+   <elementGuidId>6445e184-7b0a-4694-9059-5ef52cdce5be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-b8-Icon']/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b5-b8-Icon > div > a.OSFillParent > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d12e5c61-d158-454f-b399-4529a687f05c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/accone/img/acc_co_id_Theme.icon_EyeOpened.png?uFDf1hBPqP4obybB1AmU+A</value>
+      <webElementGuid>4356013b-934d-49a5-b14e-5575716d154b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b8-Icon&quot;)/div[1]/a[@class=&quot;OSFillParent&quot;]/img[1]</value>
+      <webElementGuid>66a97880-e95e-488e-87f2-8751121b6bca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b8-Icon']/div/a/img</value>
+      <webElementGuid>1bb27c8b-6f33-43fe-ac24-2767064e38b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>0098c325-1876-419e-b240-7e6e5a6d7539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/accone/img/acc_co_id_Theme.icon_EyeOpened.png?uFDf1hBPqP4obybB1AmU+A']</value>
+      <webElementGuid>5fbb6a8d-dfe5-4cc3-807a-1479592fa74e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

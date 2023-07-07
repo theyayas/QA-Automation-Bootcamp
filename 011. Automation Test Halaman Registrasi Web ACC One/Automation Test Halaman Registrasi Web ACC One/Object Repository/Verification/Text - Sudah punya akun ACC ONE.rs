@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text - Sudah punya akun ACC ONE</name>
+   <tag></tag>
+   <elementGuidId>f873118f-0507-4860-947d-0e8993f0e352</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-b1-Column2']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65d0030c-59b6-45bc-9c43-6a467ee84200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sudah punya akun ACC ONE? Masuk</value>
+      <webElementGuid>380f7bf1-feaf-49ba-a520-1305b47c2767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b1-Column2&quot;)/div[@class=&quot;flex-justify-center full-height&quot;]/div[@class=&quot;padding-l OSInline&quot;]/div[2]</value>
+      <webElementGuid>5318da94-0d81-4832-83fa-6d143f4e74d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b1-Column2']/div/div/div[2]</value>
+      <webElementGuid>097448bb-bea3-4eab-9ec8-c351365ac038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/following::div[1]</value>
+      <webElementGuid>5ef4cd33-bc60-4ff4-a883-97569e67f386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Sesuai KTP'])[1]/preceding::div[2]</value>
+      <webElementGuid>470f33bb-0ead-4337-9d73-a2baee0927a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sudah punya akun ACC ONE?']/parent::*</value>
+      <webElementGuid>0d4b7a5a-df70-4d81-ab63-9998a3244cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>0f40c77b-5efe-4df0-854a-9c972af4cb6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sudah punya akun ACC ONE? Masuk' or . = 'Sudah punya akun ACC ONE? Masuk')]</value>
+      <webElementGuid>d304aa16-3946-4d4a-a99d-136434bf66a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menampilkan list &quot;Investasi Asuransi &amp; Pinjaman&quot; ketika berada pada halaman Home, kursor diarahkan ke text &quot;Kategori&quot;, kemudian klik text button &quot;Investasi Asuransi &amp; Pinjaman&quot;</description>
+   <name>TC110016</name>
+   <tag>TC110016</tag>
+   <comment></comment>
+   <testCaseGuid>cf38f382-63c4-40e7-ab97-0e1b6aa43afd</testCaseGuid>
+</TestCaseEntity>

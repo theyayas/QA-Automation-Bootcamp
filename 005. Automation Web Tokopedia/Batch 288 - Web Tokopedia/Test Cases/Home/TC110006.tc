@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ketika halaman utama  discroll down, bar &quot;Tokopedia&quot; tidak ikut ter-scroll (freeze)</description>
+   <name>TC110006</name>
+   <tag>TC110006</tag>
+   <comment></comment>
+   <testCaseGuid>ecfcddf6-03ef-4dac-a161-1eb2eaaf0804</testCaseGuid>
+</TestCaseEntity>

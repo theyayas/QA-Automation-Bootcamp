@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Muat Lebih Banyak</name>
+   <tag></tag>
+   <elementGuidId>e3befae2-2ca1-42a1-9e49-c389005c2a85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.css-17sex5l-unf-btn.eg8apji0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ddb3766e-e4b2-4740-8226-4370f0fc3d75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-unify</name>
+      <type>Main</type>
+      <value>Button</value>
+      <webElementGuid>ee476e41-f61d-4600-8c02-745582ab40ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>btnHomeRecomLoadMore</value>
+      <webElementGuid>7a0e05ad-f5c3-4bd4-8740-f7af3685f8fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-17sex5l-unf-btn eg8apji0</value>
+      <webElementGuid>8e2473f7-a67f-4584-b481-df544761ed8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Muat Lebih Banyak</value>
+      <webElementGuid>91c41532-800e-4a46-81f3-037b64520b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;css-6bc98m&quot;]/div[@class=&quot;css-1jpoi5o loadMore&quot;]/button[@class=&quot;css-17sex5l-unf-btn eg8apji0&quot;]</value>
+      <webElementGuid>ce835f83-46b0-4873-b898-49089355e849</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[2]/button</value>
+      <webElementGuid>e8fe4bd7-5fab-4d48-874d-5dd805829770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terjual 10 rb+'])[15]/following::button[1]</value>
+      <webElementGuid>9dec0b2f-030e-4e78-a6a5-48b2457db5fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='KiosCepat'])[1]/following::button[1]</value>
+      <webElementGuid>af02b778-009b-4b29-9608-952924c5d5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Semua di Tokopedia!'])[1]/preceding::button[1]</value>
+      <webElementGuid>fe2fedee-82a1-4d0e-bfad-590750996193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]/button</value>
+      <webElementGuid>0dff8bfa-31f0-4eb1-9705-682940012c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Muat Lebih Banyak' or . = 'Muat Lebih Banyak')]</value>
+      <webElementGuid>9ee7d5f3-419a-456b-b9fb-6c23ba8f8e66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

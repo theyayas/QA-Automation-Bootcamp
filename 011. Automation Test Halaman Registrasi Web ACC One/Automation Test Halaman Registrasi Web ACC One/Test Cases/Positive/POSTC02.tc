@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Masuk ke halaman Registrasi</description>
+   <name>POSTC02</name>
+   <tag>POSTC02</tag>
+   <comment></comment>
+   <testCaseGuid>c25bc41a-ab1f-4af0-a7fd-4433ceb2ab37</testCaseGuid>
+</TestCaseEntity>
