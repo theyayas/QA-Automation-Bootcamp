@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nomor ponsel sudah digunakan (1)</name>
+   <tag></tag>
+   <elementGuidId>3a11178c-ab7c-41f1-afe5-9e58f4a7f330</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-b4-Input']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.validation-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f51ae796-043e-491d-b310-ab82f7f68e47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validation-message</value>
+      <webElementGuid>cf57a773-7118-4d88-9b25-aee81e1fea4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor ponsel sudah digunakan</value>
+      <webElementGuid>02e4665c-dbfa-4a35-be26-c8265cbdcffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-b4-Input&quot;)/span[@class=&quot;input-tel&quot;]/span[@class=&quot;validation-message&quot;]</value>
+      <webElementGuid>3689cb97-f839-4895-ae08-37c5b8fc041a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-b4-Input']/span/span</value>
+      <webElementGuid>8c500036-7e79-4bed-b1b4-660c5e113eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Handphone'])[1]/following::span[2]</value>
+      <webElementGuid>994c2d38-c2a9-4c29-9bf7-b1b5bbffc431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contoh : biko.maryono@acc.co.id'])[1]/following::span[4]</value>
+      <webElementGuid>7cea0c2a-63e0-4b64-8985-c2ccc789e2e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laki Laki'])[1]/preceding::span[1]</value>
+      <webElementGuid>5c112406-f331-4427-94a8-7ae7cf018342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/preceding::span[1]</value>
+      <webElementGuid>181567ac-a683-4698-914a-bf3b71b057c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nomor ponsel sudah digunakan']/parent::*</value>
+      <webElementGuid>98b97c33-495a-43cd-bfb4-b33b06c80678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>739a5f31-eee5-4404-b1b3-2fc42d135ae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nomor ponsel sudah digunakan' or . = 'Nomor ponsel sudah digunakan')]</value>
+      <webElementGuid>647f2397-80c6-446b-9e11-b7f9286cb880</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

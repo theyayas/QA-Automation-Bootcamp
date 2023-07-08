@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>nama 2 huruf</description>
+   <name>TS for NEGTC04</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>2701420e-c43f-4414-9ffa-21298a323b42</dataFileGUID>
+   <dataSourceUrl>D:\Batch288\xa-batch-288-qa-teknologi\003. Yasin\011. Automation Test Halaman Registrasi Web ACC One\Data Registrasi\Data Registrasi.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>TS for NEGTC04</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

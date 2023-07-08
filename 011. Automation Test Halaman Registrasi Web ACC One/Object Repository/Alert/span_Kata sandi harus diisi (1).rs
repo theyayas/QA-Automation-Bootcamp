@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kata sandi harus diisi (1)</name>
+   <tag></tag>
+   <elementGuidId>bc672710-e492-47d2-a113-b5c5f80ce1e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-InputKataSandi']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.validation-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7dabbb94-e89b-4829-a4c1-8090d4f1c9fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validation-message</value>
+      <webElementGuid>cced7d19-b179-44c0-a928-4f9e7cd6e35d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata sandi harus diisi</value>
+      <webElementGuid>16843ac3-90a6-41ff-bd18-c3bec741cd90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-InputKataSandi&quot;)/span[@class=&quot;input-password&quot;]/span[@class=&quot;validation-message&quot;]</value>
+      <webElementGuid>b9a5de3a-9e45-40be-b5dd-2e15c3f3f051</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-InputKataSandi']/span/span</value>
+      <webElementGuid>6003c390-b7e8-4b10-9bc3-6ad92db0ea81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[2]/following::span[3]</value>
+      <webElementGuid>42cba64f-0aa2-450c-8ff4-caf854d76222</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/following::span[4]</value>
+      <webElementGuid>066ebe76-0509-46a6-968f-8512280627ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimal 7 karakter dan kombinasi angka. Contoh : Astra345'])[1]/preceding::span[1]</value>
+      <webElementGuid>af2136dc-9dae-4092-9ef2-12cdaba22929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Kata Sandi'])[1]/preceding::span[2]</value>
+      <webElementGuid>025a3bcf-fa7f-4779-a1e0-db230b487a5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kata sandi harus diisi']/parent::*</value>
+      <webElementGuid>8b80790e-45ae-4281-8ffe-759f672f3451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>a460dcba-14f9-46b4-876f-d7bf0d2c55a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kata sandi harus diisi' or . = 'Kata sandi harus diisi')]</value>
+      <webElementGuid>b71de94d-a214-40f2-b766-d7ac594e8b32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
